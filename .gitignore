@@ -1,0 +1,6 @@
+Include/
+Lib/
+Scripts/
+git_token.txt
+lib64
+pyvenv.cfg
