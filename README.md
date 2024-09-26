@@ -28,4 +28,4 @@ verify_email("email@example.com")
 ````
 
 The ``verify_email`` function will either return the country that the school is located in or simply ``Fail`` if the
-email does not belong to a recognised school. For further 
+email does not belong to a recognised school.
