@@ -1,5 +1,5 @@
 Include/
-Lib/
+lib/
 Scripts/
-lib64
+lib64/
 pyvenv.cfg
