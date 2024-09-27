@@ -9,11 +9,11 @@ const common = ["gmail.com", "eircom.net", "hotmail.com", "outlook.com", "outloo
 function verify_email(email) {
     const email_domain = email.split("@").pop()
 
-    if (email_domain in common) {
+    if (common.includes(email_domain)) {
         return "Fail"
-    } else if (email_domain in ireland) {
+    } else if (ireland.includes(email_domain)) {
         return "Ireland"
-    } else if (email_domain in england) {
+    } else if (england.includes(email_domain)) {
         return "England"
     } else {
         return "Fail"
