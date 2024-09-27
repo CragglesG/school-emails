@@ -1,5 +1,8 @@
-const ireland = await Deno.readTextFile("ireland/emails.txt").split("\n")
-const england = await Deno.readTextFile("england/emails.txt").split("\n")
+const ireland_file = await Deno.readTextFile("ireland/emails.txt")
+const england_file = await Deno.readTextFile("england/emails.txt")
+
+const ireland = ireland_file.split('\n')
+const england = england_file.split('\n')
 
 function verify_email(email) {
     const email_domain = email.split("@")[1]
