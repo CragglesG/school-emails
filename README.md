@@ -1,6 +1,6 @@
 # School Email Verifier
 This is a handy tool to verify whether an email is from a primary or secondary school that is recognised by a government
-institution.
+institution (currently only includes schools from Ireland, England, ans Scotland).
 
 ## Installation
 
