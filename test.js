@@ -1,5 +1,5 @@
 import { expect } from "jsr:@std/expect";
-import verify_email from "verify_email.js";
+import verify_email from "./verify_email.js";
 
 Deno.test("Test for Irish email", () => {
   const result = verify_email("cgiles.stu@naascc.ie");
