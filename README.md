@@ -2,8 +2,6 @@
 This is a handy tool to verify whether an email is from a primary or secondary school that is recognised by a government
 institution.
 
-**Warning: The JavaScript function is currently not working as expected. I am working on a fix.**
-
 ## Installation
 
 Installation is simple, all you have to do is clone this repo into your working directory:
