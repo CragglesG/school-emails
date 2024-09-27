@@ -18,7 +18,7 @@ Using ``verify_email``  is super easy, all you have to do is import it and call 
 it from the ``school-emails`` directory which you cloned into:
 
 ```javascript
-import 'school-emails/verify_email'
+import verify_email from 'school-emails/verify_email'
 ```
 
 Now you can call the function to verify an email:
