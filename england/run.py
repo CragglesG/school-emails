@@ -18,7 +18,8 @@ for domain in domains:
               .removeprefix("www.")
               .removesuffix("/"))
     domain = domain.split("/")
-    fmt_domains.append(domain[0])
+    if domain[0] not in fmt_domains:
+        fmt_domains.append(domain[0])
 
 with open("emails.txt", "w") as f:
     f.write('\n'.join(fmt_domains))

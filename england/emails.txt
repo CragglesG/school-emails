@@ -69,14 +69,12 @@ elthamcoeschool.co.uk
 ourladyofgracecatholicprimaryschool.co.uk
 stjosephs.greenwich.sch.uk
 stmargaretce.greenwich.sch.uk
-koinoniafederation.com
 lgfl.net
 stalfegeschool.org.uk
 stpeters.greenwich.sch.uk
 stmprimary.org
 stthomasabecketsch.org.uk
 notredame.greenwich.sch.uk
-lgfl.net
 bishopjohnrobinsonprimary.co.uk
 elthamhill.com
 plumsteadmanor.com
@@ -191,12 +189,10 @@ parkwalk.rbkc.sch.uk
 avondalepark.rbkc.sch.uk
 thomasjonesschool.org
 ccht.rbkc.sch.uk
-ccht.rbkc.sch.uk
 oratory.rbkc.sch.uk
 stfed.rbkc.sch.uk
 sbsp.rbkc.sch.uk
 stfrancisofassisi.org.uk
-stfed.rbkc.sch.uk
 sma.rbkc.sch.uk
 scwsm.rbkc.sch.uk
 st-marys.rbkc.sch.uk
@@ -292,7 +288,6 @@ myattgarden.lewisham.sch.uk
 hornimanprimary.com
 perrymount.lewisham.sch.uk
 ashmeadprimary.wordpress.com
-brindisheschools.org
 kilmorieschool.co.uk
 allsaints.lewisham.sch.uk
 goodshepherd.lewisham.sch.uk
@@ -328,12 +323,9 @@ dulwichwood.com
 michaelfaradayschool.co.uk
 riverside.southwark.sch.uk
 thebridgesfederation.org.uk
-thebridgesfederation.org.uk
 southwarkparkschool.co.uk
-thebridgesfederation.org.uk
 victory.southwark.sch.uk
 charlottesharman.co.uk
-mayflowerfederation.org.uk
 pilgrimsway.southwark.sch.uk
 alfredsalter.com
 olivergoldsmith.southwark.sch.uk
@@ -355,7 +347,6 @@ stpeterswalworth.co.uk
 cathedralprimaryschool.com
 stjohnsrotherhithe.co.uk
 ssso.southwark.sch.uk
-stjosephs.southwark.sch.uk
 stjosephs.southwark.sch.uk
 friarsprimaryschool.com
 stac.uk.com
@@ -380,7 +371,6 @@ bluegatefieldsinfant.co.uk
 olga.towerhamlets.sch.uk
 stepneypark.towerhamlets.sch.uk
 manorfield.towerhamlets.sch.uk
-shhfederation.org
 virginia.towerhamlets.sch.uk
 wellington.towerhamlets.sch.uk
 woolmore.towerhamlets.sch.uk
@@ -420,7 +410,6 @@ earlsfield.wandsworth.sch.uk
 falconbrook.wandsworth.sch.uk
 fircroft.family
 furzedownschool.co.uk
-honeywellschools.org
 honeywellschools.org
 hothamprimaryschool.org.uk
 johnburns.wandsworth.sch.uk
@@ -538,15 +527,12 @@ livingstoneprimaryschool.org
 slf.greenhousecms.co.uk
 monkfrithschool.co.uk
 mosshall.school
-mosshall.school
 northsideschool.co.uk
 woodridgeprimaryschool.com
-slf.greenhousecms.co.uk
 underhillschool.co.uk
 whitingshillprimaryschool.co.uk
 chalgroveprimary.org.uk
 sunnyfieldsprimary.co.uk
-queenswellfederation.co.uk
 queenswellfederation.co.uk
 danegroveschool.co.uk
 allsaintsnw2.barnet.sch.uk
@@ -573,7 +559,6 @@ sacredheartprimary.co.uk
 blesseddominic.barnet.sch.uk
 rpps.org.uk
 menorahprimaryschool.org.uk
-theannunciationschools.co.uk
 friern.barnet.sch.uk
 st-michaels.barnet.sch.uk
 finchleycatholic.org.uk
@@ -596,7 +581,6 @@ peelpark.eschools.co.uk
 ansonprimaryschool.com
 brentfield.brent.sch.uk
 carlton.brent.sch.uk
-tmss.org.uk
 tmss.org.uk
 uxendonmanor.com
 kgreen.brent.sch.uk
@@ -664,7 +648,6 @@ christchurch.croydon.sch.uk
 stjosephsfederation.co.uk
 margaretroper.croydon.sch.uk
 reginacoelischool.co.uk
-stjosephsfederation.co.uk
 archten.croydon.sch.uk
 stmaryscroydon.co.uk
 selsdonprimary.com
@@ -736,10 +719,8 @@ garfield.enfield.sch.uk
 georgespicer.enfield.sch.uk
 hadleywood.enfield.sch.uk
 hazelwoodschools.org.uk
-hazelwoodschools.org.uk
 honilands.co.uk
 princeofwales.enfield.sch.uk
-raglanschools.org
 raglanschools.org
 suffolks.enfield.sch.uk
 tottenhall.enfield.sch.uk
@@ -775,8 +756,6 @@ st-ignatius.enfield.sch.uk
 belmontjunior.org
 belmontinfants.org
 boundsgreenschool.co.uk
-boundsgreenschool.co.uk
-campsbourne.haringey.sch.uk
 campsbourne.haringey.sch.uk
 devonshirehill.com
 earlsmead.haringey.sch.uk
@@ -786,7 +765,6 @@ coldfall.haringey.sch.uk
 tetherdownschool.org
 rokesly-jun.haringey.sch.uk
 rokesly-inf.haringey.sch.uk
-southharringayschools.co.uk
 southharringayschools.co.uk
 westgreen.haringey.sch.uk
 tivertonprimary.co.uk
@@ -809,9 +787,7 @@ stmarysrcpriory.haringey.sch.uk
 stpaulswoodgreen.org.uk
 stmaryspriory.co.uk
 stpetersandstgildas.co.uk
-sfds.haringey.sch.uk
 stmartinofporres.co.uk
-stpetersandstgildas.co.uk
 st-johnvianney.haringey.sch.uk
 hsg.haringey.sch.uk
 hws.haringey.sch.uk
@@ -991,7 +967,6 @@ haslemereprimary.co.uk
 poplar.merton.sch.uk
 stmarks.merton.sch.uk
 thesherwoodschool.co.uk
-bedifferent-federation.org.uk
 wimbledonpark.merton.sch.uk
 abbotsbury.merton.sch.uk
 westwimbledonprimary.co.uk
@@ -999,7 +974,6 @@ cranmer.merton.sch.uk
 gorringepark.co.uk
 hillcross.merton.sch.uk
 liberty.merton.sch.uk
-bedifferent-federation.org.uk
 wimbledonchaseschool.co.uk
 allsaints.merton.sch.uk
 st-matthews.merton.sch.uk
@@ -1090,9 +1064,7 @@ darell.richmond.sch.uk
 eastsheen.richmond.sch.uk
 hamptonhill.richmond.sch.uk
 hpp.school
-hpp.school
 hamptonwick.richmond.sch.uk
-heathfieldschoolspartnership.org
 heathfieldschoolspartnership.org
 lowther.richmond.sch.uk
 meadlands.richmond.sch.uk
@@ -1243,7 +1215,6 @@ chadvale.bham.sch.uk
 woodthorpe-school.com
 worldsendinfant.bham.sch.uk
 kitwellschool.com
-boldmere.bham.sch.uk
 boldmere.bham.sch.uk
 minworth.bham.sch.uk
 wyldegrn.bham.sch.uk
@@ -1408,14 +1379,12 @@ albertpritchard-woodgreen.co.uk
 moorlandsprimarysch.co.uk
 oldparkprimary.com
 parkhillprimary.co.uk
-albertpritchard-woodgreen.co.uk
 burnttree.sandwell.sch.uk
 greatbridgeprimary.co.uk
 ockerhill-inf.sandwell.sch.uk
 whitecrest.sandwell.sch.uk
 eatonvalley.sandwell.sch.uk
 glebefields.net
-abbeyfederation.co.uk
 abbeyfederation.co.uk
 annielennardprimary.co.uk
 bearwood.sandwell.sch.uk
@@ -1474,7 +1443,6 @@ olton.solihull.co.uk
 greswold.solihull.sch.uk
 meridenceprimaryschool.com
 stalphege.solihull.sch.uk
-stalphege.solihull.sch.uk
 berkswellschool.org.uk
 georgefenthamschool.co.uk
 stmaryandstmargarets.com
@@ -1521,7 +1489,6 @@ st-giles.walsall.sch.uk
 stmichaels-pelsall.co.uk
 stjohnscewalsallwood.co.uk
 bluecoatfederation.co.uk
-bluecoatfederation.co.uk
 st-marymount.walsall.sch.uk
 st-patricks.walsall.sch.uk
 st-peters.walsall.sch.uk
@@ -1551,7 +1518,6 @@ merridaleprimary.co.uk
 eastfieldprimaryschool.org.uk
 wodensfield.org
 dovecotesprimaryschool.co.uk
-christchurchfederation.co.uk
 christchurchfederation.co.uk
 stlukesprimary.co.uk
 holytrinityprimaryschool.co.uk
@@ -1649,7 +1615,6 @@ kingdavidliverpool.co.uk
 hollylodge.liverpool.sch.uk
 calderstones.co.uk
 gateacre.org
-kingdavidliverpool.co.uk
 abblanch.com
 stjulies.org.uk
 broughtonhall.com
@@ -1950,7 +1915,6 @@ st-agnes.manchester.sch.uk
 stclementsprimary.co.uk
 armitage.manchester.sch.uk
 st-lukes.manchester.sch.uk
-sjcfederation.co.uk
 allsaintsnh-pri.manchester.sch.uk
 standrewsmanchester.org.uk
 stjamesmanchester.co.uk
@@ -2397,8 +2361,6 @@ holyroodschool.co.uk
 tankersleystpetersprimary.org.uk
 theellisschool.org.uk
 federationcc.org.uk
-federationcc.org.uk
-federationcc.org.uk
 penistone-gs.uk
 arkseyprimary.co.uk
 tollbar.doncaster.sch.uk
@@ -2638,7 +2600,6 @@ linthwaiteclough-kirklees.org.uk
 golcarjin.com
 crossleyfields.com
 ravensthorpejuniorschool.co.uk
-nlconline.org.uk
 stjohnsdewsbury.co.uk
 saviletown.co.uk
 thornhill-lees.com
@@ -2667,7 +2628,6 @@ cumberworthfirstschool.co.uk
 denbyfirstschool.kirklees.sch.uk
 kirkburtonfirst.co.uk
 gomersalstmarys.co.uk
-nlconline.org.uk
 holmfirthhigh.co.uk
 w-h-s.org.uk
 spenvalleyhighschool.co.uk
@@ -2751,7 +2711,6 @@ hunsletcarr.co.uk
 hunsletmoor.co.uk
 ingramroad.org.uk
 westwood.leeds.sch.uk
-musicfederation.co.uk
 clapgateprimaryschool.co.uk
 hughgaitskell.leeds.sch.uk
 castletonleeds.co.uk
@@ -2854,7 +2813,6 @@ southstreetprimary.org
 bedecommunityprimaryschool.org
 oakfieldschoolsfederation.org
 larkspurprimary.co.uk
-oakfieldschoolsfederation.org
 ravensworthterrace.com
 portobelloprimary.eschools.co.uk
 birtleyeastprimary.org
@@ -3022,14 +2980,12 @@ barmston.com
 stpaulsryhope.co.uk
 stannesrcprimary.org.uk
 ashleydownschool.org.uk
-ashleydownschool.org.uk
 novaprimaryschool.co.uk
 broomhill-jun.bristol.sch.uk
 chesterpark-jun.bristol.sch.uk
 chesterparkschools.org
 glenfrome.bristol.sch.uk
 stannesinfants.co.uk
-seftonparkschools.co.uk
 seftonparkschools.co.uk
 southville.bristol.sch.uk
 summerhillinfantschool.co.uk
@@ -3048,7 +3004,6 @@ longwellgreenprimaryschool.co.uk
 crosswaysschools.co.uk
 ststephensinf.org.uk
 barleycloseschool.co.uk
-crosswaysschools.co.uk
 courtneyprimaryschool.co.uk
 paultonjuniorschool.co.uk
 kewstokeprimary.co.uk
@@ -3193,10 +3148,8 @@ duntonwrestlingworthschool.com
 renhold.beds.sch.uk
 stswithunssandy.co.uk
 silsoeschool.co.uk
-duntonwrestlingworthschool.com
 carltoncofeprimary.co.uk
 bromhamprimary.co.uk
-ewmeschools.org.uk
 johndonne.co.uk
 clophillstmarysschool.co.uk
 stleonards.beds.sch.uk
@@ -3249,7 +3202,6 @@ courthousejunior.co.uk
 riversideprimaryschool.org.uk
 wessexprimary.org
 johnrankinschools.com
-johnrankinschools.com
 kingscourtfirst.co.uk
 collegetownprimary.com
 farleyhillprimary.co.uk
@@ -3290,13 +3242,10 @@ wraysburyprimary.co.uk
 katesgroveprimaryschool.co.uk
 hawthorns.wokingham.sch.uk
 woodenhill.bracknell-forest.sch.uk
-pdp.w-berks.sch.uk
-gorserideschools.co.uk
 cavershamparkprimaryschool.co.uk
 micklands.reading.sch.uk
 radstockprimary.org.uk
 hillside.wokingham.sch.uk
-calcotschools.co.uk
 calcotschools.co.uk
 spurcroft.w-berks.sch.uk
 larchfieldschool.co.uk
@@ -3325,9 +3274,7 @@ kintbury.w-berks.sch.uk
 boynehillschool.org
 purleyprimaryschool.co.uk
 shaw.w-berks.sch.uk
-csfschools.org
 shinfield-st-marys.eschools.co.uk
-mortimerschools.org
 mortimerschools.org
 streatleyprimary.co.uk
 thealeprimary.co.uk
@@ -3335,7 +3282,6 @@ warfieldprimary.co.uk
 welfordandwickhamprimaryschool.org
 stpauls.wokingham.sch.uk
 woodleyceprimary.co.uk
-robertpiggott.wokingham.sch.uk
 robertpiggott.wokingham.sch.uk
 wsmschool.org
 stmarys.slough.sch.uk
@@ -3375,7 +3321,6 @@ wexhamschool.co.uk
 st-bernards.slough.sch.uk
 sterf.org.uk
 prioryschool.com
-stjohnandstnicolasschools.org.uk
 stjosephs.w-berks.sch.uk
 pippins.slough.sch.uk
 thedownsschool.org
@@ -3421,7 +3366,6 @@ iverheathjunior.co.uk
 bedgroveinfantschool.co.uk
 carrington-inf.bucks.sch.uk
 broughtoninfant.bucks.sch.uk
-csgvillageschool.org
 oakridgehighwycombe.co.uk
 butlerscourt.bucks.sch.uk
 johnhampdenwendover.co.uk
@@ -3445,7 +3389,6 @@ spinfieldschool.co.uk
 longcrendon.bucks.sch.uk
 stokenchurchprimary.co.uk
 iverheath-inf.bucks.sch.uk
-farnhamcommonvillageschools.co.uk
 greenleysfirstschool.org.uk
 haddenham-jun.bucks.sch.uk
 tjs.org.uk
@@ -3461,7 +3404,6 @@ greatlinfordprimaryschool.co.uk
 greenleysjunior.org
 woodend.org.uk
 bradwellvillageschool.co.uk
-boulevardprimarypartnership.org.uk
 germanderpark.com
 waddesdonprimary.com
 thewillowseyc.org.uk
@@ -3512,7 +3454,6 @@ quainton.bucks.sch.uk
 oakleycecombined.co.uk
 winslowschool.co.uk
 stpeterscofe.org
-threeschools.org
 cuddingtonanddintonschool.co.uk
 marsworthschool.co.uk
 stmarysce.bucks.sch.uk
@@ -3945,7 +3886,6 @@ greystoke.cumbria.sch.uk
 hstcuth.cumbria.sch.uk
 irthingtonvillage.cumbria.sch.uk
 kirkbride.cumbria.sch.uk
-alstonmoorfederation.org.uk
 brunswick.cumbria.sch.uk
 northlakes.cumbria.sch.uk
 penruddock.cumbria.sch.uk
@@ -3961,7 +3901,6 @@ grasslot.cumbria.sch.uk
 ewanrigg.cumbria.sch.uk
 oughtersideschool.co.uk
 smhwkt.cumbria.sch.uk
-victoriaschool.org.uk
 victoriaschool.org.uk
 ashfieldinf.cumbria.sch.uk
 ashfieldjuniorschool.co.uk
@@ -4108,7 +4047,6 @@ stbedes.cumbria.sch.uk
 warcopcofeschool.co.uk
 beaconhill.cumbria.sch.uk
 solwayschool.co.uk
-alstonmoorfederation.org.uk
 thelakesschool.com
 netherhall.cumbria.sch.uk
 dowdalesschool.co.uk
@@ -4229,10 +4167,7 @@ arkwright.derbyshire.sch.uk
 newhallinfants.co.uk
 stanton.derbyshire.sch.uk
 tibshelf-inf.derbyshire.sch.uk
-tibshelf-inf.derbyshire.sch.uk
 unstone.derbyshire.sch.uk
-unstone.derbyshire.sch.uk
-frameworkfederation.co.uk
 whaleybridge.derbyshire.sch.uk
 furnessvale.derbyshire.sch.uk
 whitwellprimary.co.uk
@@ -4255,7 +4190,6 @@ eureka.derbyshire.sch.uk
 ashbourneprimary.co.uk
 heathfields.derbyshire.sch.uk
 holmesdale.derbyshire.sch.uk
-parkfed.co.uk
 northfield.derbyshire.sch.uk
 copthorneinfants.org.uk
 ashbrookinfantandnursery.co.uk
@@ -4396,9 +4330,7 @@ copplestone-primary.devon.sch.uk
 haywards.org
 culmstock-primary.devon.sch.uk
 ladysmithfederation.net
-ladysmithfederation.net
 montgomeryprimary.org.uk
-stokehill.devon.sch.uk
 stokehill.devon.sch.uk
 exeterroad.devon.sch.uk
 honitonprimary.co.uk
@@ -4407,7 +4339,6 @@ newton-poppleford.devon.sch.uk
 exevalleyfederation.co.uk
 otteryprimary.co.uk
 west-hill-primary.devon.sch.uk
-exevalleyfederation.co.uk
 seatonprimary.org.uk
 shute-primary.org.uk
 upottery-primary.devon.sch.uk
@@ -4427,7 +4358,6 @@ southmead.devon.sch.uk
 villageschools.org.uk
 eastansteyschool.org
 filleigh-primary.devon.sch.uk
-thecareyfederation.co.uk
 hartland.devon.sch.uk
 ilfracombe-inf.devon.sch.uk
 instowcps.co.uk
@@ -4436,13 +4366,11 @@ woodlandfederation.org.uk
 langtree.devon.sch.uk
 marwood.devon.sch.uk
 monkleigh-primary.devon.sch.uk
-villageschools.org.uk
 stgilesheathprimary.co.uk
 shebbear-pri.devon.sch.uk
 southmoltonprimary.devon.sch.uk
 westberryfederation.org.uk
 winkleigh.devon.sch.uk
-villageschools.org.uk
 kingsacre-primary.devon.sch.uk
 abbotskerswell-primary.devon.sch.uk
 bishopsteignton.devon.sch.uk
@@ -4466,7 +4394,6 @@ canadahill.devon.sch.uk
 hatherleigh-pri.devon.sch.uk
 horrabridge-primary.devon.sch.uk
 moorswayfederation.org.uk
-moorswayfederation.org.uk
 marytavyandbrentorpri.co.uk
 tavistock-pri.devon.sch.uk
 collegeroadschool.co.uk
@@ -4479,14 +4406,12 @@ halberton.school
 castletiverton.school
 twomoors.devon.sch.uk
 heathcoat.devon.sch.uk
-exevalleyfederation.co.uk
 wrpschool.org
 kentisbeare-primary.devon.sch.uk
 lympstone-primary.devon.sch.uk
 offwell-primary.devon.sch.uk
 payhemburyprimary.co.uk
 plymtree-primary.devon.sch.uk
-exevalleyfederation.co.uk
 stokecanon.net
 exevalleyfederation.org.uk
 uplowman.school
@@ -4494,12 +4419,10 @@ goodleigh-primary.devon.sch.uk
 bluecoat-learn.org
 holsworthy-primary.devon.sch.uk
 ilfracombe-jun.devon.sch.uk
-westexmoorfederation.org.uk
 chudleigh.devon.sch.uk
 kingskerswellprimaryschool.co.uk
 malboroughprimaryschool.co.uk
 st-michaels-pri.devon.sch.uk
-moorswayfederation.org.uk
 compton-cofe-primary.org
 standrewsprimaryschool.co.uk
 fort.devon.sch.uk
@@ -4509,7 +4432,6 @@ feniton.devon.sch.uk
 tipton-stjohn.devon.sch.uk
 woodbury.devon.sch.uk
 pinhoecofeprimaryschool.co.uk
-westexmoorfederation.org.uk
 swimbridge-primary.org
 stcatherines-heathfield.devon.sch.uk
 marldon-primary.devon.sch.uk
@@ -4543,7 +4465,6 @@ greenford.dorset.sch.uk
 bishopscaundle.dorset.sch.uk
 broadwindsor.dorset.sch.uk
 charminster.dorset.sch.uk
-wykeregisfed.dorset.sch.uk
 burtonschool.co.uk
 sticklands.dorset.sch.uk
 hamprestonfirstschool.com
@@ -4572,7 +4493,6 @@ stalbridge.dorset.sch.uk
 woodroffe.dorset.sch.uk
 roperywalk.org.uk
 westleaprimaryschool.com
-lumley.durham.sch.uk
 lumley.durham.sch.uk
 westpelton.durham.sch.uk
 nettlesworth.durham.sch.uk
@@ -4702,7 +4622,6 @@ laughton.e-sussex.sch.uk
 wallandsschool.org
 western-road.eschools.co.uk
 maynardsgreenschool.co.uk
-pioneerfederation.co.uk
 plumpton.e-sussex.sch.uk
 brackenburyprimary.co.uk
 punnettstown.e-sussex.sch.uk
@@ -4790,7 +4709,6 @@ stjohnsprimary.org
 framfieldcep.e-sussex.sch.uk
 guestling.e-sussex.sch.uk
 st-marks-hadlowdown.co.uk
-pioneerfederation.co.uk
 assr.e-sussex.sch.uk
 aldrington.org
 st-andrews.brighton-hove.sch.uk
@@ -4842,7 +4760,6 @@ bradfieldprimary.co.uk
 tendring-pri.essex.sch.uk
 wixandwrabnessprimaryschool.co.uk
 gosbecks.co.uk
-prettygateschools.co.uk
 prettygateschools.co.uk
 hazelmere-jun.essex.sch.uk
 hazelmere-inf.essex.sch.uk
@@ -4975,17 +4892,14 @@ little-waltham-school.co.uk
 greateastonprimary.co.uk
 lhandsmhboschools.co.uk
 stthomaspri.org
-lhandsmhboschools.co.uk
 st-josephworker.essex.sch.uk
 moretonceprimaryschool.co.uk
-federationfarnhamrickling.co.uk
 radwinter.essex.sch.uk
 stfrancisbraintree.org.uk
 chrishall.essex.sch.uk
 st-michaels-jun.essex.sch.uk
 christthekingfederation.uk
 trinitystmarys.com
-christthekingfederation.uk
 st-petershanningfield.essex.sch.uk
 allsaints-harwich.essex.sch.uk
 bishops.essex.sch.uk
@@ -5070,7 +4984,6 @@ yorkleyschool.co.uk
 woolastonprimary.co.uk
 cashesgreen-pri.gloucs.sch.uk
 innsworthjunior.org.uk
-partonmanorfed.co.uk
 rodborough-primary.com
 croft.gloucs.sch.uk
 castlehill.gloucs.sch.uk
@@ -5198,7 +5111,6 @@ droxfordjunior.co.uk
 denmeadinfantschool.co.uk
 wildground.hants.sch.uk
 fryernfederation.co.uk
-wildground.hants.sch.uk
 thecrescentprimary.com
 cherbourg.org.uk
 shakespeareinfantschool.co.uk
@@ -5206,7 +5118,6 @@ wallisdeanfederation.co.uk
 uplands.hants.sch.uk
 fairoakinfant.co.uk
 redlandsprimaryhants.co.uk
-wallisdeanfederation.co.uk
 grateley.hants.sch.uk
 greathamschool.co.uk
 waterside.hants.sch.uk
@@ -5215,7 +5126,6 @@ hamble-pri.hants.sch.uk
 hambledon.hants.sch.uk
 greenoaks.org.uk
 fairfield.hants.sch.uk
-ridersschools.co.uk
 ridersschools.co.uk
 trosnantschools.co.uk
 Www.trosnantschools.co.uk
@@ -5247,7 +5157,6 @@ cupernhamjunior.com
 stmarybourneschool.co.uk
 sheetprimaryschool.co.uk
 shiptonbellinger.hants.sch.uk
-burleyandsopleyfederation.org.uk
 stockbridgeprimary.co.uk
 tadleyprimary.co.uk
 titchfieldprimary.co.uk
@@ -5262,13 +5171,9 @@ padnell-jun.hants.sch.uk
 padnell-inf.hants.sch.uk
 hartplaininfants.co.uk
 croftonannedaleinfant.co.uk
-fryernfederation.co.uk
 vigo.hants.sch.uk
-winkleburyfederation.co.uk
 shamblehurst.hants.sch.uk
 antoninfantschool.com
-oakridgeschoolsfederation.co.uk
-southview-fed.hants.sch.uk
 crookham-jun.hants.sch.uk
 orchard-inf.co.uk
 hiltingburyinfant.co.uk
@@ -5304,7 +5209,6 @@ manorfield-jun.hants.sch.uk
 kempshott-jun.hants.sch.uk
 ranvillesjuniorschool.co.uk
 tweseldowninfantschool.co.uk
-lissfederation.hants.sch.uk
 purbrook-jun.hants.sch.uk
 marnel-inf.hants.sch.uk
 foxhills-inf.hants.sch.uk
@@ -5312,11 +5216,9 @@ butts.hants.sch.uk
 knightsenham-inf.hants.sch.uk
 bursledonschools.co.uk
 ranvilles-inf.hants.sch.uk
-northernfederation.org.uk
 poulnerinfantschool.com
 parkgateprimary.co.uk
 southwonston.hants.sch.uk
-bishopswood-inf.hants.sch.uk
 kempshottinfants.com
 wootey-jun.hants.sch.uk
 romanwayprimary.org
@@ -5342,13 +5244,9 @@ croftonhjs.co.uk
 potleyhill.hants.sch.uk
 kingscopse.co.uk
 netleyabbeyschools.co.uk
-balksburyfederation.co.uk
 petersgateinfantschool.co.uk
 springwoodjuniorschool.co.uk
 fordingbridgefed.co.uk
-fordingbridgefed.co.uk
-netleyabbeyschools.co.uk
-greenoaks.org.uk
 shakespearejuniorschool.co.uk
 marchwood-jun.hants.sch.uk
 coldencommon.hants.sch.uk
@@ -5399,7 +5297,6 @@ grangejunior.com
 grange-inf.hants.sch.uk
 alvervalleyschools.co.uk
 peelcommoninfantschool.co.uk
-alvervalleyschools.co.uk
 peelcommonjuniorschool.co.uk
 gomerinfantschool.co.uk
 brockhurst.hants.sch.uk
@@ -5422,7 +5319,6 @@ alderwood.hants.sch.uk
 parkviewprimary.hants.sch.uk
 harestock.co.uk
 weekeprimary.com
-federationofhazelwoodandlydlynch.co.uk
 hartplain-jun.hants.sch.uk
 southwoodinfantschool.co.uk
 fourlanes-jun.hants.sch.uk
@@ -5444,9 +5340,7 @@ andover-pri.hants.sch.uk
 bartonstacey.hants.sch.uk
 binsted.hants.sch.uk
 botley.hants.sch.uk
-forestedgelearning.co.uk
 brockenhurstceprimary.co.uk
-bursledonschools.co.uk
 bramley.hants.sch.uk
 bentleyprimaryschool.co.uk
 catherington.hants.sch.uk
@@ -5460,14 +5354,12 @@ froxfield.hants.sch.uk
 schools.hants.org.uk
 horndeanjuniorschool.co.uk
 hbtprimary.net
-forestedgelearning.co.uk
 kingsclereprimary.com
 kingssomborne.hants.sch.uk
 st-johns-titchfield.hants.sch.uk
 longsutton.hants.sch.uk
 marchwood-inf.hants.sch.uk
 medstead.hants.sch.uk
-meonvalleyfederation.hants.sch.uk
 oakscelearningfederation.co.uk
 nurslingprimary.co.uk
 otterbourneprimaryschool.com
@@ -5496,11 +5388,9 @@ allsaintsceprimary.co.uk
 western.hants.sch.uk
 stthomasinfant.co.uk
 stbedewinchester.co.uk
-liphookfederation.co.uk
 st-james-westend.org.uk
 st-michaels-inf.hants.sch.uk
 stmichaelscejunior.co.uk
-leeslandschools-fed.co.uk
 leeslandschools-fed.co.uk
 newtownceprimary.co.uk
 rowledgeschool.com
@@ -5528,7 +5418,6 @@ stalbansprimaryschool.co.uk
 lockerleyprimary.co.uk
 longparish.hants.sch.uk
 lymington-inf.hants.sch.uk
-oakscelearningfederation.co.uk
 romseyabbeyschool.co.uk
 silchesterschool.org
 smannell-enham.co.uk
@@ -5536,7 +5425,6 @@ swanmoreprimary.org.uk
 upham.hants.sch.uk
 clatford.hants.sch.uk
 st-faiths.hants.sch.uk
-skylarkfederation.com
 st-judes.hants.sch.uk
 st-thomasmores.hants.sch.uk
 olsjschool.co.uk
@@ -5866,7 +5754,6 @@ goldfield.herts.sch.uk
 greenway.herts.sch.uk
 thorngrove.herts.sch.uk
 icknieldwalk.herts.sch.uk
-cunninghamhill.herts.sch.uk
 reedings.herts.sch.uk
 groveinfants.co.uk
 kingslangley-pri.herts.sch.uk
@@ -5962,7 +5849,6 @@ nashmills.herts.sch.uk
 alburyandpullerschools.co.uk
 ardeley.herts.sch.uk
 astonmarys.herts.sch.uk
-barleybarkway.herts.sch.uk
 victoria.herts.sch.uk
 stmarys916.herts.sch.uk
 stmichaelsjmi.herts.sch.uk
@@ -5986,7 +5872,6 @@ spmillend.herts.sch.uk
 abbey.herts.sch.uk
 stmichaelsprimaryherts.co.uk
 parkstreetprimary.org.uk
-alburyandpullerschools.co.uk
 stapleford.herts.sch.uk
 stnicholas120.herts.sch.uk
 tewincowper.herts.sch.uk
@@ -6094,7 +5979,6 @@ acreheads.org
 molescroftprimary.net
 elloughtonprimaryschool.co.uk
 therawcliffeschools.co.uk
-therawcliffeschools.co.uk
 snaithprimary.org.uk
 newpasturelane.co.uk
 inmansprimaryschool.co.uk
@@ -6143,16 +6027,13 @@ kirmingtonst-helenas.co.uk
 stanfordschool.org
 scunthorpe.n-lincs.sch.uk
 stallingboroughprimary.co.uk
-thewintertonfederation.co.uk
 wroottravisprimary.co.uk
 humberestuaryfederation.co.uk
 cowickprimary.org.uk
 suttonuponderwentprimary.org.uk
-sledmereandwetwangfederation.co.uk
 stmaryscofeprimarybeverley.co.uk
 stmartinsfangfoss.co.uk
 woottonstandrews.co.uk
-riversidefederation.co.uk
 pollingtonbalneprimary.com
 standrews.hull.sch.uk
 beverleyhigh.net
@@ -6193,7 +6074,6 @@ carisbrookecepri.iow.sch.uk
 fosay.co.uk
 brighstoneprimary.org.uk
 oakfieldcepri.iow.sch.uk
-fosay.co.uk
 stmaryspri.co.uk
 stsavioursrcpri.co.uk
 holycrossrcpri.iow.sch.uk
@@ -6277,7 +6157,6 @@ ellington-infant.kent.sch.uk
 priory.kent.sch.uk
 hempsteadjnr.medway.sch.uk
 shearsgreenjuniorschool.co.uk
-swfed.co.uk
 horstedschool.co.uk
 aycliffecpschool.co.uk
 riverhead.kent.sch.uk
@@ -6287,7 +6166,6 @@ stpaulsmaidstone.co.uk
 langton-green-school.org
 bishopsdownprimary.org
 parkwoodprimary.org.uk
-horstedschool.co.uk
 singlewell.kent.sch.uk
 cheritonprimary.org.uk
 flourish-federation.secure-primarysite.net
@@ -6360,7 +6238,6 @@ newington.kent.sch.uk
 teynham.kent.sch.uk
 barham.kent.sch.uk
 bridge.kent.sch.uk
-chislethoathfederation.co.uk
 littlebourne.kent.sch.uk
 st-alphege.kent.sch.uk
 wickhambreaux-school.ik.org
@@ -7127,8 +7004,6 @@ hemswellcliff.lincs.sch.uk
 charles-baines.lincs.sch.uk
 tattershallprimary.lincs.sch.uk
 winchelsea.lincs.sch.uk
-holtonleclayschools.co.uk
-griffinfederation.co.uk
 bythams-school.co.uk
 birchwood.lincs.sch.uk
 lesliemanser.lincs.sch.uk
@@ -7139,14 +7014,11 @@ baston-school.co.uk
 billinghayprimaryschool.co.uk
 coleby.lincs.sch.uk
 dentonceschool.co.uk
-spiresfederation.co.uk
-spiresfederation.co.uk
 st-annes.lincs.sch.uk
 gonerbyhillfoot.co.uk
 harlaxton-lincs.co.uk
 heckington.lincs.sch.uk
 st-andrews.lincs.sch.uk
-carrdykefederation.co.uk
 navenbyschool.com
 allsaints-northhykeham.lincs.sch.uk
 potterhanworth.lincs.sch.uk
@@ -7158,12 +7030,10 @@ uffingtonprimary.co.uk
 welbournprimary.co.uk
 claypoleprimary.org
 gedneyhillschool.co.uk
-griffinfederation.co.uk
 stbartholomews.lincs.sch.uk
 quadringprimary.co.uk
 westonhills.lincs.sch.uk
 cowley.lincs.sch.uk
-suttertonswinesheadfederation.co.uk
 suttertonswinesheadfederation.co.uk
 sfsm.co.uk
 st-faiths.lincs.sch.uk
@@ -7227,14 +7097,12 @@ blofieldprimary.co.uk
 bressingham.norfolk.sch.uk
 buxtonschool.co.uk
 caisterprimaryfederation.org
-caisterprimaryfederation.org
 cantley.norfolk.sch.uk
 colby.norfolk.sch.uk
 freethorpe.norfolk.sch.uk
 harnserfed.co.uk
 gtellingham.org.uk
 hempnall.norfolk.sch.uk
-caisterprimaryfederation.org
 hevingham.norfolk.sch.uk
 hinghamprimary.org.uk
 holt.norfolk.sch.uk
@@ -7305,28 +7173,23 @@ terringtonstclementschool.co.uk
 ashillschool.co.uk
 stmichaelsaylsham.co.uk
 ellingham.norfolk.sch.uk
-blueskyfederation.co.uk
 edmunddemoundeford.co.uk
-harnserfed.co.uk
 hethersettvcprimary.co.uk
 oldcatton.norfolk.sch.uk
 pulham.norfolk.sch.uk
 salhouseschool.co.uk
 tasvalley.org.uk
 heartwood.norfolk.sch.uk
-tasvalley.org.uk
 taverhamjunior.co.uk
 thurton.norfolk.sch.uk
 worstead.norfolk.sch.uk
 scarningprimary.co.uk
 denver.norfolk.sch.uk
 fleggburghprimary.org.uk
-harnserfed.co.uk
 swantonmorleyprimary.co.uk
 hindringham.sch.uk
 gmhfed.norfolk.sch.uk
 neatisheadprimaryschool.co.uk
-gmhfed.norfolk.sch.uk
 st-nicholaspriory.org.uk
 wreningham.norfolk.sch.uk
 brooke.norfolk.sch.uk
@@ -7348,8 +7211,6 @@ hunstantonprimaryschool.co.uk
 loddonprimaryfederation.co.uk
 southwootton-jun.norfolk.sch.uk
 barnhambroomprimaryschool.co.uk
-caisterprimaryfederation.org
-loddonprimaryfederation.co.uk
 wicklewoodschool.co.uk
 toftwood.norfolk.sch.uk
 carrinfantschool.co.uk
@@ -7442,7 +7303,6 @@ filey-jun.n-yorks.sch.uk
 longmanshill.co.uk
 athelstan.n-yorks.sch.uk
 saltergateschools.co.uk
-saltergateschools.co.uk
 aiskewleemingbar.org
 stbarnabasprimary.co.uk
 stpaulsprimaryyork.com
@@ -7450,7 +7310,6 @@ b-a-wb.co.uk
 northyorkshire.schooljotter.com
 bilsdalecarltonschools.co.uk
 bromptonschool.net
-b-a-wb.co.uk
 crakehallprimaryschool.co.uk
 craykeschool.org
 danbyceprimary.co.uk
@@ -7472,19 +7331,15 @@ sandhutton.n-yorks.sch.uk
 snainton.n-yorks.sch.uk
 fed-mas.n-yorks.sch.uk
 suttonontheforestschool.org
-stwschoolsfederation.co.uk
 warthill.n-yorks.sch.uk
 west-tanfield.n-yorks.sch.uk
 ruswarp-primaryschool.co.uk
-hacknesswykehamcefederation.co.uk
-heritagecoastfederation.org.uk
 elvingtonprimary.org.uk
 hertfordvale.co.uk
 stoswalds.york.sch.uk
 lordderamores.com
 settrington.n-yorks.sch.uk
 heslerton.n-yorks.sch.uk
-reethandgunnerside.org.uk
 melsonby.n-yorks.sch.uk
 richmondmethodist.n-yorks.sch.uk
 stmarysprimaryschool.co.uk
@@ -7513,14 +7368,11 @@ riponcathedralschool.org.uk
 selbyabbeyprimaryschool.co.uk
 settle-pri.n-yorks.sch.uk
 sharow.n-yorks.sch.uk
-follifootandspofforth.co.uk
 wistowschool.co.uk
 gargrave.n-yorks.sch.uk
 kildwickceschool.org.uk
-b-a-wb.co.uk
 bolton-on-swale.n-yorks.sch.uk
 st-peters-brafferton.n-yorks.sch.uk
-bilsdalecarltonschools.co.uk
 michael-syddall.n-yorks.sch.uk
 egton.n-yorks.sch.uk
 kirkbyandgreatbroughtonschool.co.uk
@@ -7534,7 +7386,6 @@ boyle-petyt.n-yorks.sch.uk
 burnsallprimaryschool.co.uk
 cawoodprimary.co.uk
 kirkbymalhamprimary.org.uk
-ribblesdalefed.n-yorks.sch.uk
 risedale.org.uk
 thirskschool.org
 whitbyschool.co.uk
@@ -7610,12 +7461,10 @@ geddingtonschool.co.uk
 grendonprimary.net
 harpoleprimary.co.uk
 pattishallschool.co.uk
-forestfederation.co.uk
 syreshamprimaryschool.co.uk
 titchmarshprimaryschool.com
 allsaintscevawellingborough.org.uk
 westhaddonprimary.net
-forestfederation.co.uk
 yardleygobionschool.co.uk
 brigstocklathams.co.uk
 kingscliffeschool.co.uk
@@ -7623,7 +7472,6 @@ clipstonprimaryschool.org
 standrews.northants.sch.uk
 lhcep.co.uk
 newbottleandcharlton.co.uk
-forestfederation.co.uk
 wilbyprimarynorthants.org
 stmarysrc-astonlewalls.co.uk
 stpatricksprimaryschool.com
@@ -7714,13 +7562,11 @@ whalton.northumberland.sch.uk
 corbridgemiddle.co.uk
 haydonbridgehigh.co.uk
 svf.org.uk
-svf.org.uk
 tweedmouth.schooljotter2.com
 bellinghammiddle.northumberland.sch.uk
 glendale.northumberland.sch.uk
 berwickmiddleschool.org.uk
 jcsc.co.uk
-svf.org.uk
 annesleyprimaryschool.com
 cantrell.nottingham.sch.uk
 carrington.nottingham.sch.uk
@@ -7745,7 +7591,6 @@ healdswood.notts.sch.uk
 dalestorth.notts.sch.uk
 hempshillhallprimary.com
 hettslane.com
-thewelbeckfederation.org
 thewelbeckfederation.org
 sherwood.notts.sch.uk
 arnovale.co.uk
@@ -8021,7 +7866,6 @@ stmarysalbrighton.org.uk
 beckbury.shropshire.sch.uk
 bictonschool.org.uk
 brocktonprimary.co.uk
-shf.shropshire.sch.uk
 st-lawrenceprimary.co.uk
 cockshuttcofeprimary.org.uk
 christchurchcressage.co.uk
@@ -8057,7 +7901,6 @@ westfelton.westcliffefederation.co.uk
 westonlullingfields.westcliffefederation.co.uk
 edgeschoolsfederation.co.uk
 longmountain.shropshire.sch.uk
-shf.shropshire.sch.uk
 wrockwardinewoodcejuniorschool.taw.org.uk
 broseleyprimary.co.uk
 hanwood.shropshire.sch.uk
@@ -8070,7 +7913,6 @@ baschurchprimary.org.uk
 stmarysbc.co.uk
 bhf.shropshire.sch.uk
 claverleyprimary.org.uk
-bhf.shropshire.sch.uk
 coalbrookdaleschool.org.uk
 longden.shropshire.sch.uk
 whittingtonschool.co.uk
@@ -8137,11 +7979,9 @@ highhamprimary.co.uk
 hinton-st-george.somerset.sch.uk
 herneviewschool.co.uk
 fossefederation.co.uk
-beckingtonandmellsfederation.co.uk
 crowcombeandstogumberprimaryschools.co.uk
 waltonprimary.co.uk
 stcuthbertsjuniorswells.co.uk
-priddyandstlawrences.co.uk
 westpennardschool.co.uk
 uptonnoble.org.uk
 stpaulsjuniorsomerset.org.uk
@@ -8158,15 +7998,11 @@ westcoker.somerset.sch.uk
 rodeandnortonschoolfederation.co.uk
 chewtonmendipschool.org.uk
 combestnicholascofeschool.co.uk
-crowcombeandstogumberprimaryschools.co.uk
-moorlandfed.co.uk
 stbenedictscofevajuniorschoolglastonbury.co.uk
 kilmersdoncevaprisch.co.uk
 longsuttonprimaryschool.co.uk
-rodeandnortonschoolfederation.co.uk
 stdubriciuscofeschool.co.uk
 stbenedicts.info
-moorlandfed.co.uk
 stjohnsfrome.co.uk
 thurlbear.somerset.sch.uk
 trullprimary.com
@@ -8241,7 +8077,6 @@ barlaston.staffs.sch.uk
 berkswichceprimary.co.uk
 betley.staffs.sch.uk
 st-annes-brownedge.staffs.sch.uk
-chadsmoorfed.staffs.sch.uk
 st-johns-keele.staffs.sch.uk
 christchurch-lichfield.staffs.sch.uk
 st-bartholomews-longnor.org.uk
@@ -8315,9 +8150,7 @@ bramsomfederation.net
 trimley.net
 trimleystmartinprimaryschool.com
 waldringfield.suffolk.sch.uk
-owfed.co.uk
 woodbridgeprimary.suffolk.sch.uk
-fairfieldandcolneis.co.uk
 gorseland.net
 kingsfleetprimaryschool.co.uk
 kysonprimaryschool.co.uk
@@ -8337,7 +8170,6 @@ barrowcevcprimaryschool.co.uk
 boxford.suffolk.sch.uk
 bures.suffolk.sch.uk
 cavendish.suffolk.sch.uk
-htpfederation.co.uk
 greatwaldingfield.suffolk.sch.uk
 honington.edublogs.org
 hopton.suffolk.sch.uk
@@ -8348,7 +8180,6 @@ risbyprimary.com
 walsham.suffolk.dbprimary.com
 whatfield.suffolk.sch.uk
 bawdseyprimary.com
-bramsomfederation.net
 corton.suffolk.sch.uk
 eastbergholt-pri.suffolk.sch.uk
 greatfinborough.suffolk.sch.uk
@@ -8417,7 +8248,6 @@ audleyprimary.uk
 meadowcroftprimaryschool.co.uk
 stamford-green.surrey.sch.uk
 onslow.surrey.sch.uk
-earlswood.surrey.sch.uk
 reigate-priory.co.uk
 thorpe-lea.surrey.sch.uk
 stannsheath.org
@@ -8567,8 +8397,6 @@ btschool.co.uk
 cubbingtonprimaryschool.co.uk
 lapworthschool.co.uk
 radfordsemeleprimaryschool.co.uk
-allsaintsemscotefederation.co.uk
-briarhillstmargarets.co.uk
 cliftonupondunsmoreprimaryschool.uk
 wolstonprimary.org.uk
 wolveyschool.co.uk
@@ -8649,7 +8477,6 @@ fairwayinfant.co.uk
 birchwoodgrove.org.uk
 estcots.co.uk
 northheathprimary.co.uk
-durringtoninfantjunior.co.uk
 tabinfant.org.uk
 tabjunior.org.uk
 sheddingdeanschool.org.uk
@@ -8676,7 +8503,6 @@ fittleworthschool.org.uk
 jolesfield-school.co.uk
 htlb.school
 midhurst-primary-school.co.uk
-dvsf.school
 petworth.w-sussex.sch.uk
 rogate.w-sussex.sch.uk
 shipleyceprimary.com
@@ -8834,7 +8660,6 @@ wardour.wilts.sch.uk
 st-patricks.wilts.sch.uk
 chilmarkfonthillbishop.wilts.sch.uk
 semley.wilts.sch.uk
-olivertomkinsschools.co.uk
 olivertomkinsschools.co.uk
 hindonce.wilts.sch.uk
 kennetvalley.wilts.sch.uk
@@ -9078,7 +8903,6 @@ dixonsca.com
 knightlowprimary.co.uk
 paddington-academy.org
 ridgewayprimaryschool.org.uk
-thegemfederation.co.uk
 godwinprimary.co.uk
 middlepark.co.uk
 mountpleasantschool.co.uk
@@ -9135,7 +8959,6 @@ topsham.devon.sch.uk
 discovery.greenwich.sch.uk
 valleyview-pri.leeds.sch.uk
 bedenhamandholbrookfederation.co.uk
-bedenhamandholbrookfederation.co.uk
 cranmereprimary.org.uk
 castlewood.w-sussex.sch.uk
 hoxtongarden.hackney.sch.uk
@@ -9157,7 +8980,6 @@ theprioryprimary.co.uk
 westcliffeprimary.com
 allsaintsupton.halton.sch.uk
 brinkleygrove.essex.sch.uk
-lowickholyislandschools.org.uk
 kinggeorgev.sandwell.sch.uk
 baileyscourt.com
 saintcuthberts.wigan.sch.uk
@@ -9463,7 +9285,6 @@ keldmarshprimaryschool.org.uk
 williamhogarthschool.co.uk
 swallowdell.herts.sch.uk
 gorseybrigg.co.uk
-hbsfed.co.uk
 st-john.oxon.sch.uk
 cps.derbyshire.sch.uk
 wmsf.ac.uk
@@ -9617,7 +9438,6 @@ chestnutsprimary.com
 northharringayprimaryschool.org.uk
 kingsoakprimary.org.uk
 mca.mossbourne.org
-beechwoodprimary.org.uk
 southbankprimary.co.uk
 manorfield.surrey.sch.uk
 cadland.hants.sch.uk
@@ -9842,7 +9662,6 @@ thedivinemercy.manchester.sch.uk
 accrington-academy.org
 open-academy.org.uk
 newrickstonesacademy.org
-sites.google.com
 maltingsacademy.org
 oasisacademycoulsdon.org
 southstaffs.ac.uk
@@ -9902,7 +9721,6 @@ cranfordparkprimary.co.uk
 ncea.org.uk
 endeavourprimary.org
 skinnerskentacademy.org.uk
-basildonacademies.org.uk
 basildonacademies.org.uk
 riversideprimary.co.uk
 canorwich.org
@@ -10078,7 +9896,6 @@ fulstonmanor.kent.sch.uk
 rabutleracademy.org.uk
 glpa.org.uk
 kingsmeadschool.org
-rabutleracademy.org.uk
 gurunanaksikhacademy.co.uk
 waleshigh.com
 crosshallinfant.co.uk
@@ -10093,7 +9910,6 @@ sandbachhigh.co.uk
 lampton.org.uk
 kha-tkat.org
 garforthacademy.org.uk
-canterbury.kent.sch.uk
 larkrise.com
 johnhenrynewmancatholiccollege.org.uk
 juniorhighacademy.org.uk
@@ -10142,7 +9958,6 @@ jkhs.org.uk
 thestleonardsacademy.org.uk
 thehastingsacademy.org
 beitshvidler.org.uk
-wigmoreschool.org.uk
 ninestiles.org.uk
 pilgrimscross.co.uk
 birkenheadparkschool.com
@@ -10259,8 +10074,6 @@ woodlandacademy.co.uk
 ashburton-primary.devon.sch.uk
 buckfastleigh.devon.sch.uk
 widecombe.thelink.academy
-pegasusacademytrust.org
-pegasusacademytrust.org
 pegasusacademytrust.org
 penair.cornwall.sch.uk
 plymstockschool.org.uk
@@ -10402,7 +10215,6 @@ lrgs.org.uk
 northdurhamacademy.co.uk
 wlfs.org
 rydeacademy.org
-htpd.surrey.sch.uk
 overtongrange.sutton.sch.uk
 stourvalleycommunityschool.org
 westhatch.net
@@ -10448,7 +10260,6 @@ wcgs-sutton.co.uk
 carshaltonboys.org
 greenshaw.co.uk
 pmghs.com
-trumpingtonfederation.co.uk
 jmhs.hereford.sch.uk
 trinitychurchschool.com
 chesterbluecoatce.cheshire.sch.uk
@@ -10597,7 +10408,6 @@ greatmalvernprimary.com
 swr.gloucs.sch.uk
 coleshill.warwickshire.sch.uk
 swinton.coopacademies.co.uk
-abbeyfed.darlington.sch.uk
 abbeyfed.darlington.sch.uk
 countyhigh.uk
 henleyschool.com
@@ -10854,7 +10664,6 @@ slougheton.com
 hgs.herts.sch.uk
 aggs.trafford.sch.uk
 greenfieldpulloxhillschools.org.uk
-greenfieldpulloxhillschools.org.uk
 somersparkschool.org.uk
 springhillcatholic.co.uk
 cromptonhouse.org
@@ -10962,7 +10771,6 @@ st-edmunds-pri.wilts.sch.uk
 bassingbournvc.net
 stedmundcampion.com
 oasisacademyjohanna.org
-inspirationtrust.org
 fieldcourt-jun.gloucs.sch.uk
 astreacottenham.org
 formbyhighschool.com
@@ -11321,7 +11129,6 @@ st-helena.essex.sch.uk
 manningtreehigh.com
 biggleswadeacademy.org
 samuelwhitbread.org.uk
-inspirationtrust.org
 silverspringsacademy.org.uk
 cityheightsacademy.e-act.org.uk
 st-james.bromley.sch.uk
@@ -11437,7 +11244,6 @@ hibaldstowacademy.com
 scawbyacademy.com
 bvgacademy.co.uk
 educationvillage.org.uk
-educationvillage.org.uk
 stjohnfisher-wigston.leics.sch.uk
 cedarmount.bright-futures.co.uk
 moseleypark.org
@@ -11490,7 +11296,6 @@ stbedes.durham.sch.uk
 meadowcommunity.co.uk
 belfairsacademy.org.uk
 mowdenfederation.co.uk
-mowdenfederation.co.uk
 cromwellcc.org.uk
 riddlesdown.org
 heathfieldprimary.com
@@ -11513,7 +11318,6 @@ molehillprimaryacademy.org.uk
 school21.org.uk
 hcfs.org.uk
 wappinghigh.org
-northstartrust.org.uk
 bedminsterdown.org.uk
 fleetvillejm.herts.sch.uk
 fleetvilleinfants.herts.sch.uk
@@ -11532,10 +11336,8 @@ tibhs.com
 stjosephscollege.org.uk
 auea.co.uk
 cobhamfreeschool.org.uk
-avanti.org.uk
 bedfordfreeschool.co.uk
 albancityschool.org.uk
-futureschoolstrust.com
 athertonhigh.com
 allsaintsacademy.org.uk
 theparkeracademy.e-act.org.uk
@@ -11638,18 +11440,15 @@ kibprimary.leics.sch.uk
 greatbowden.leics.sch.uk
 st-maryshigh.herts.sch.uk
 notredame-high.org.uk
-educationvillage.org.uk
 willowbrook-gst.org
 oakbank.education
 parksidestudiocollege.co.uk
-sites.google.com
 tqacademy.co.uk
 meadowpark.anthemtrust.uk
 chantryacademy.org
 westwalsallacademy.e-act.org.uk
 bridgwatercollegeacademy.org
 dolphinschoolbristol.org
-northstartrust.org.uk
 leafstudio.co.uk
 gardencityacademy.co.uk
 heronparkprimaryacademy.org
@@ -11676,7 +11475,6 @@ croftacademy.org
 thedeanacademy.org
 eastfieldacademy.co.uk
 thecroft.swindon.sch.uk
-sites.google.com
 raceleys-gst.org
 stclemce.bham.sch.uk
 stmich21.bham.sch.uk
@@ -11787,8 +11585,6 @@ samuelryderacademy.co.uk
 chalfontvalleyacademy.e-act.org.uk
 christchurchcofeacademy.co.uk
 newforestacademy.org
-nishkamschooltrust.org
-sites.google.com
 trinityprimaryacademy.org
 slade.bham.sch.uk
 goldsmithprimary.org.uk
@@ -11852,7 +11648,6 @@ filtonavenue.com
 tregolls.org.uk
 beanfieldprimary.org
 pvpa.org.uk
-sites.google.com
 ryecroftpa.org.uk
 newingtonacademy.org
 thegreenwayacademy.org
@@ -11864,7 +11659,6 @@ thamesviewinfants.org
 copthallschool.org.uk
 cleevepark-tkat.org
 oasisacademybyron.org
-avanti.org.uk
 latchmereschool.org
 barclayprimary.net
 chingfordfoundation.org
@@ -11946,7 +11740,6 @@ forestgateacademy.co.uk
 minervaprimaryacademy.clf.uk
 lfadm.org.uk
 fromevaleacademy.clf.uk
-inspirationtrust.org
 fcea.org.uk
 dersingham.norfolk.sch.uk
 kelling.norfolk.sch.uk
@@ -12007,7 +11800,6 @@ montgomeryprimaryacademy.org
 jameshornsby.essex.sch.uk
 strandpa.org.uk
 fevershamprimaryacademy.org
-madani.school
 desborough.org.uk
 stjohnsandstpeters.school
 clarendonacademy.com
@@ -12192,7 +11984,6 @@ sunnysideprimaryacademy.org
 belvederejuniorschool.co.uk
 henbury.tila.school
 brooksideprimarysch.co.uk
-sites.google.com
 oasisacademyblakenhaleinfants.org
 rpa.tynecoast.academy
 oasisacademyshortheath.org
@@ -12238,7 +12029,6 @@ st-johns-pri.bham.sch.uk
 stmicb32.bham.sch.uk
 stmichaelsn22.ldbsact.org
 spah.org.uk
-spah.org.uk
 stgilberts.co.uk
 taboracademy.co.uk
 bostongrammarschool.co.uk
@@ -12255,7 +12045,6 @@ guildfordcounty.co.uk
 st-marys-school.co.uk
 skernepark.org.uk
 bca.warrington.ac.uk
-marishacademytrust.co.uk
 wodenprimary.org
 stsimonandstjude.leics.sch.uk
 christchurchacademy.org.uk
@@ -12297,7 +12086,6 @@ hawkesley.bham.sch.uk
 mpa.northerneducationtrust.org
 neale-wade.org
 flpa-tkat.org
-nishkamschooltrust.org
 laurel-laneprimary.hillingdon.sch.uk
 kingsleyacademy.org
 brumby.outwood.com
@@ -12567,7 +12355,6 @@ st-hughs-catholic-primary.co.uk
 winifredholtbyacademy.co.uk
 woodsideschool.co.uk
 pegasusprimary.co.uk
-hollybrookschools.co.uk
 parkfieldschool.com
 roundhouseprimary.co.uk
 woodhouse.priacademy.co.uk
@@ -12600,7 +12387,6 @@ denhamgreenacademy.e-act.org.uk
 stbartholomews.covmat.org
 hillfarmprimary.co.uk
 iscaexeter.co.uk
-sites.google.com
 copperfieldacademy.org
 liverpoolcollege.org.uk
 mjps.org.uk
@@ -12627,7 +12413,6 @@ theportsmouthacademy.org.uk
 hampacademy.co.uk
 arkallsaintsacademy.org
 lfatg.org.uk
-nishkamschooltrust.org
 stjohnsdorking.uk
 riverley-gst.org
 sybournprimary.net
@@ -12717,11 +12502,9 @@ langmoor.leics.sch.uk
 theorchardsprimary.com
 loughton.milton-keynes.sch.uk
 loundacademy.co.uk
-loundacademy.co.uk
 lubenham.leics.sch.uk
 mcpa.org.uk
 mildenhall.attrust.org.uk
-sites.google.com
 ngjs.co.uk
 perryhall.co.uk
 withamoaksacademy.co.uk
@@ -12748,7 +12531,6 @@ stedmundscloud.co.uk
 stmichaels-academy.co.uk
 st-teresas.org
 sspeterandpaul.co.uk
-inspirationtrust.org
 pimlicoprimary.org
 windmillschool.org
 wheatfieldschool.org
@@ -12769,7 +12551,6 @@ daestudio.biz
 nanaksarprimary.co.uk
 kingfisher-gst.org
 saxonway-gst.org
-inspirationtrust.org
 eyrescroft.peterborough.sch.uk
 dormanstown.teesvalleyeducation.co.uk
 pathwaysacademy.e-act.org.uk
@@ -12857,7 +12638,6 @@ gateway-academy.co.uk
 havelockschools.org.uk
 oasisacademyaspinal.org
 bedfordhall.wigan.sch.uk
-havelockschools.org.uk
 wardleacademy.co.uk
 boddingtonschool.org
 boxgrove.surrey.sch.uk
@@ -12873,7 +12653,6 @@ fareham-academy.co.uk
 englishmartyrslongeaton.srscmat.co.uk
 fairfieldspencer.org.uk
 fna.northerneducationtrust.org
-rothwellschools.org.uk
 rushtonprimaryschool.co.uk
 gravenhurstacademy.org.uk
 harden.bradford.sch.uk
@@ -12950,7 +12729,6 @@ cravenprimaryacademy.org.uk
 wathvictoriaprimary.co.uk
 apa.northerneducationtrust.org
 neneandramnothschool.co.uk
-neneandramnothschool.co.uk
 smcacademy.co.uk
 weststleonardsprimaryacademy.org.uk
 southminsterschool.co.uk
@@ -12960,7 +12738,6 @@ st-thomascantilupe.org
 endikeprimary.co.uk
 magdalenwainfleet.co.uk
 lordswood-gst.org
-inspirationtrust.org
 moorlands.dneat.org
 abbeyceacademy.co.uk
 greenfields-pri.co.uk
@@ -13062,7 +12839,6 @@ danemill.com
 ckschool.leics.sch.uk
 summercourtacademy.org
 skeltonprimaryschool.co.uk
-barnehurstfederation.co.uk
 barnehurstfederation.co.uk
 furleypark.org.uk
 ham-street.org.uk
@@ -13216,7 +12992,6 @@ ststephenscornwall.co.uk
 windmillhillacademy.org
 novahreodacademy.org.uk
 glenfieldschool.co.uk
-pegasusacademytrust.org
 twicknhm.bham.sch.uk
 na.northerneducationtrust.org
 stjosephs-aylesham.co.uk
@@ -13288,7 +13063,6 @@ energycoastutc.co.uk
 millbrookparkschool.ldbsact.org
 dartonprimary.com
 miltoncross-tkat.org
-gordonchildrensacademy.org.uk
 gordonchildrensacademy.org.uk
 glenfield.leics.sch.uk
 concordschool.net
@@ -13369,7 +13143,6 @@ burnage.manchester.sch.uk
 chipsteadvalley.com
 ctkcps.com
 cottesbrooke-inf.bham.sch.uk
-crabtreeschools.org
 crabtreeschools.org
 crossacresprimary.co.uk
 dayslaneprimary.co.uk
@@ -13465,8 +13238,6 @@ st-thomasaquinas.stoke.sch.uk
 bansteadinfant.co.uk
 warrenmead.co.uk
 wlfs-earlscourt.org
-knutsfordacademy.org.uk
-inspirationtrust.org
 drapersbrookside.com
 stalhamacademy.co.uk
 standrewsceprimary.org.uk
@@ -13630,7 +13401,6 @@ rushdenprimaryacademy.org
 desalisstudiocollege.co.uk
 trinityoaks.surrey.sch.uk
 thegatwickschool.org.uk
-canarywharfcollege.co.uk
 walneyschool.co.uk
 hanhamwoods.academy
 archbishopwake.dsat.org.uk
@@ -13690,7 +13460,6 @@ stcuthbertsacademy.co.uk
 st-marycray.bromley.sch.uk
 newvalleyprimary.com
 stmarkscofeprimaryacademy.net
-pegasusacademytrust.org
 rosastreet.durham.sch.uk
 dogsthorpeacademy.org
 blackpoolaspireacademy.co.uk
@@ -13758,7 +13527,6 @@ north-tmet.uk
 mountsorrelschool.org.uk
 cuxtonschools.co.uk
 antinghamsouthrepps.co.uk
-cherrytreeacademy.co.uk
 holycross.demat.org.uk
 st-barnabas.northants.sch.uk
 bayardshillprimary.org
@@ -13788,7 +13556,6 @@ queenscrescent.wilts.sch.uk
 haydonwick.swindon.sch.uk
 st-peters.wilts.sch.uk
 gatleyprimary.com
-cuxtonschools.co.uk
 lawrencesheriffschool.net
 featherstoneacademy.co.uk
 bringhurstprimary.co.uk
@@ -13804,7 +13571,6 @@ ctkacademy.co.uk
 welholmeacademy.com
 tleacademy.co.uk
 leesons.bromley.sch.uk
-devonshireacademies.org.uk
 devonshireacademies.org.uk
 ashleyschool.org.uk
 knowlhillschool.co.uk
@@ -13853,8 +13619,6 @@ trinityceprimary.school
 gatehouse.devon.sch.uk
 wensumjunior.co.uk
 eaton.norfolk.sch.uk
-inspirationtrust.org
-inspirationtrust.org
 stmichaelskingslynn.norfolk.sch.uk
 yeomoorprimaryschool.org.uk
 tickenhamprimary.co.uk
@@ -13867,12 +13631,9 @@ ianramsey.org.uk
 olsb.bhcet.org.uk
 coupalsacademy.co.uk
 castlehillprimary.org.uk
-castlehillprimary.org.uk
 dixonsmn.com
 newbold.outwood.com
 thegrangeschool.com
-netacademies.net
-netacademies.net
 netacademies.net
 st-edwards-sheerness.co.uk
 stj.hslt.academy
@@ -13886,7 +13647,6 @@ brambleacademy.org
 bydales.outwood.com
 kentmereacademy.co.uk
 westwood.theharmonytrust.org
-highhazelsacademy.org.uk
 highhazelsacademy.org.uk
 millhillprimaryacademy.coop
 glemsfordprimaryacademy.co.uk
@@ -13915,7 +13675,6 @@ st-philipneri.notts.sch.uk
 loddingtonschool.org.uk
 greataddingtonprimary.org.uk
 roseberryacademy.org
-villagesaintspartnership.demat.org.uk
 clenchwartonprimary.co.uk
 thehoward-that.org.uk
 bromptonwestbrook.medway.sch.uk
@@ -13952,7 +13711,6 @@ st-chadsprimary.co.uk
 airedaleinfants.com
 acornacademy.org
 marshwood.acornacademy.org
-acornacademy.org
 queenelizabeths.com
 tintagelschool.org
 stnicholasceprimary.co.uk
@@ -13989,7 +13747,6 @@ wclacademy.co.uk
 immaculate-derbyshire.co.uk
 elloweshall.co.uk
 northwickpark.essex.sch.uk
-katherinesemar.co.uk
 katherinesemar.co.uk
 hardwicke.gloucs.sch.uk
 northwoldschool.com
@@ -14195,7 +13952,6 @@ ss-peterandpauls.co.uk
 stpeters.oxon.sch.uk
 stacs.org
 st-thomas-more.net
-tmpf.staffs.sch.uk
 sudellprimaryschool.co.uk
 blake.oxon.sch.uk
 fitzwimarc.com
@@ -14204,7 +13960,6 @@ twbs.co.uk
 tilneyallsaints.demat.org.uk
 turnditchprimary.org.uk
 teamacademytrust.com
-tmpf.staffs.sch.uk
 beechescps.org.uk
 williamgilbertend.derbyshire.sch.uk
 windhill.herts.sch.uk
@@ -14237,7 +13992,6 @@ cudham.bromley.sch.uk
 deneholm.org.uk
 fairfield.herts.sch.uk
 finedon.northants.sch.uk
-finedon.northants.sch.uk
 greensideschool.org
 greystoke.leics.sch.uk
 heatonavenue.co.uk
@@ -14252,7 +14006,6 @@ pop.hslt.academy
 prestolee.bolton.sch.uk
 rushey-tmet.uk
 sandhillprimary.org.uk
-unityfederation.co.uk
 seendschool.com
 simondesenlis.org
 st-francisxavier.sandwell.sch.uk
@@ -14343,7 +14096,6 @@ castercliffprimaryacademy.co.uk
 bruntcliffe.leeds.sch.uk
 marshlandstjames.demat.org.uk
 sewellparkacademy.co.uk
-inspirationtrust.org
 danesholmejunioracademy.org
 stbrendansprimaryschool.co.uk
 Holytrinity.academy
@@ -14474,7 +14226,6 @@ stagnes.kernowlearning.co.uk
 newlyn.cornwall.sch.uk
 walsgraveacademy.org
 cliffordbridgeacademy.org
-stmaryscatholicprimaryschoolstrust.co.uk
 victoria-academy.co.uk
 yarlsideacademy.co.uk
 parkside-academy.co.uk
@@ -14572,7 +14323,6 @@ stclares.npcat.org.uk
 stedwards.npcat.org.uk
 st-georges-sheppey.kent.sch.uk
 stgerards.npcat.org.uk
-stjosephs.npcat.org.uk
 stthomasacademy.school
 stm.npcat.org.uk
 thebattschool.org.uk
@@ -14593,7 +14343,6 @@ twydallprimary.org.uk
 templemill-that.org.uk
 derehamjunior.dneat.org
 marshlandhigh.co.uk
-eyrescroft.peterborough.sch.uk
 cheamcommon.org.uk
 ectonvillageacademy.org.uk
 cottesmoreacademy.co.uk
@@ -14705,7 +14454,6 @@ cockburnschool.org
 eastcoteprimaryacademy.org.uk
 goodshepherdprimaryschool.co.uk
 edenfederation.co.uk
-edenfederation.co.uk
 immanuelcollege.org
 manor.kent.sch.uk
 oatlandsinf.ycway.uk
@@ -14715,12 +14463,10 @@ sproughtonprimary.org.uk
 stleonards.devon.sch.uk
 stmaryshad.co.uk
 st-maryscofe.suffolk.sch.uk
-edenfederation.co.uk
 st-thomasmoresheffield.co.uk
 st-wilfrids.org
 westoverprimary.co.uk
 utcleeds.co.uk
-utcsheffield.org.uk
 beechview.bucks.sch.uk
 johnwoodschool.com
 fermorschool.org.uk
@@ -14785,7 +14531,6 @@ lhs.ttlt.org.uk
 luxulyan.eschools.co.uk
 mayville.waltham.sch.uk
 monkscoppenhall.cheshire.sch.uk
-moorlands-school.org
 moorlands-school.org
 oakfieldhyde.co.uk
 oakmanor.brent.sch.uk
@@ -14863,7 +14608,6 @@ buttershaw.net
 stjosephsmatlock.srscmat.co.uk
 woodlands.kent.sch.uk
 barkerendprimary.com
-edenfederation.co.uk
 badgerhillprimaryschool.co.uk
 darleychurchtownschool.co.uk
 wensumtrust.org.uk
@@ -14883,14 +14627,12 @@ stkaths.org.uk
 westcraven.co.uk
 willowbrook-tmet.uk
 yewtree.bham.sch.uk
-avanti.org.uk
 yavnehprimary.org
 pinnerhighschool.org
 woottonparkschool.org.uk
 charlesdarwinprimary.org
 onedegreeacademy.org
 galleywall.co.uk
-canarywharfcollege.co.uk
 rugbyfreesecondary.co.uk
 gyca.org.uk
 sutc.coastandvale.academy
@@ -14900,7 +14642,6 @@ globalacademy.com
 utccrewe.co.uk
 lipasixthformcollege.org
 utcsouthdurham.org
-khalsaacademiestrust.com
 langleyparkprimary.org.uk
 olivebolton.com
 utcw.co.uk
@@ -14941,7 +14682,6 @@ stmaryscockerton.org.uk
 trentyoungs.dsat.org.uk
 colleylaneprimary.org.uk
 brougham-school.org.uk
-drapersbrookside.com
 thurnby-tmet.uk
 greenpark.norfolk.sch.uk
 littlecoatesacademy.co.uk
@@ -14951,9 +14691,6 @@ courthillinfants.co.uk
 longfleet.poole.sch.uk
 bpspjunior.co.uk
 oakdalejunior.co.uk
-learnerstrust.org
-learnerstrust.org
-learnerstrust.org
 streetsbrook.co.uk
 codsall-middle.staffs.sch.uk
 barnfields.staffs.sch.uk
@@ -14973,7 +14710,6 @@ nacton.suffolk.sch.uk
 wickhambrookschool.co.uk
 burnsideacademy.co.uk
 fatfieldacademy.co.uk
-eastwickschools.uk
 eastwickschools.uk
 cuddington.thpt.org.uk
 wallacefieldsinfantschool.co.uk
@@ -15054,7 +14790,6 @@ woodlands.ealing.sch.uk
 hawkesfarmacademy.org
 breakwateracademy.org
 smfa.org.uk
-sites.google.com
 lubbinspark.essex.sch.uk
 larkrise.essex.sch.uk
 whitmore-pri.essex.sch.uk
@@ -15188,7 +14923,6 @@ portisheadprimary.co.uk
 stmarysprimaryportbury.co.uk
 highdownschools.co.uk
 st-peters.n-somerset.sch.uk
-highdownschools.co.uk
 hookstonechase.n-yorks.sch.uk
 scalby.coastandvale.academy
 fog.hslt.academy
@@ -15247,7 +14981,6 @@ st-wulstans.staffs.sch.uk
 pertonacademy.co.uk
 parkside-staffs.co.uk
 westonfederation.co.uk
-westonfederation.co.uk
 bacton-pri.suffolk.sch.uk
 cedarspark.suffolk.sch.uk
 mendlesham.suffolk.sch.uk
@@ -15293,7 +15026,6 @@ cranbourne.herts.sch.uk
 tweeddaleprimary.sutton.sch.uk
 woodlandspark.devon.sch.uk
 erdingtonacademy.bham.sch.uk
-newsilksworthacademy.co.uk
 newsilksworthacademy.co.uk
 carnforthschool.org
 fibbersleyparkacademy.org.uk
@@ -15387,7 +15119,6 @@ stjosephsna.bhcet.org.uk
 st-james-colchester-essex.co.uk
 brenzett.kent.sch.uk
 smithdonhigh.org.uk
-wroughtonacademies.org.uk
 hawesprimary.co.uk
 dubmire.co.uk
 princesrisboroughprimary.bucks.sch.uk
@@ -15426,9 +15157,6 @@ lilycroftprimaryschool.co.uk
 greenlane.bradford.sch.uk
 sawtryjunior.org
 lintonheightsschool.co.uk
-learnerstrust.org
-learnerstrust.org
-learnerstrust.org
 mexboroughstjohn.co.uk
 leasoweshighschool.co.uk
 stleonardsdurham.bwcet.com
@@ -15492,7 +15220,6 @@ royalwharfprimary.co.uk
 heathsidewalton.org
 thelimesacademy.org
 kcea.org.uk
-avanti.org.uk
 woolwichpolygirls.co.uk
 ncbradford.ac.uk
 sirfrederickgibberdcollege.org
@@ -15533,7 +15260,6 @@ fairlands.herts.sch.uk
 campshill.herts.sch.uk
 tenterdenprimaryfederation.kent.sch.uk
 stmcep.school
-tenterdenprimaryfederation.kent.sch.uk
 birdsedgefirst.org
 kirkburtonmiddleschool.co.uk
 scissettmiddle.com
@@ -15683,7 +15409,6 @@ hutchinson.staffs.sch.uk
 icknield.oxon.sch.uk
 leafield.oxon.sch.uk
 leybourne.school
-wensumtrust.org.uk
 pineridgeandlorraine.co.uk
 manorfieldinfant.org.uk
 maryeltonschool.org.uk
@@ -15704,7 +15429,6 @@ wilsdenprimary.co.uk
 windsorpark.staffs.sch.uk
 wgswitney.org.uk
 caldecoteceacademy.co.uk
-learnerstrust.org
 5acreshighschool.co.uk
 cds.kent.sch.uk
 upwellacademy.co.uk
@@ -15734,7 +15458,6 @@ marhamchurch-lap.co.uk
 courthousegreen.org
 st-petersprimary.co.uk
 davinciacademy.co.uk
-allsaintsfed.derbyshire.sch.uk
 allsaintsfed.derbyshire.sch.uk
 pingleacademy.com
 westalvington-lap.co.uk
@@ -15805,8 +15528,6 @@ sotterington.dalesmat.org
 aspinparkacademy.org
 efmt.dalesmat.org
 ainderbysteepleschool.org
-eckf.dalesmat.org
-efmt.dalesmat.org
 meadowsideacademy.org
 falconershillinfants.com
 abbeyprimary.co.uk
@@ -15900,7 +15621,6 @@ stjohns.demat.org.uk
 dobwalls.cornwall.sch.uk
 liskeard.net
 trewidlandprimaryandpreschool.co.uk
-learnerstrust.org
 beechcroft.dsat.org.uk
 bradfordabbasprimary.co.uk
 olive.dudley.sch.uk
@@ -15992,7 +15712,6 @@ barnsoleprimary.medway.sch.uk
 newbradwellschool.com
 spoonerrowprimary.co.uk
 burston-tivetshall-schools.co.uk
-burston-tivetshall-schools.co.uk
 foulshamprimaryschool.org.uk
 knaytonacademy.org
 guilsboroughprimary.co.uk
@@ -16080,7 +15799,6 @@ eastborough.viat.org.uk
 gaywoodprimary.co.uk
 granvilleacademy.co.uk
 gunthorpeschool.co.uk
-teamacademytrust.com
 hpcofe.co.uk
 jeavonswood.cambs.sch.uk
 kingsway.org.uk
@@ -16154,7 +15872,6 @@ bellevillewix.org.uk
 barclay.futureacademies.org
 BHTP.co.uk
 chelmondiston.suffolk.sch.uk
-pegasusacademytrust.org
 failsworth.coopacademies.co.uk
 greathollandsprimary.co.uk
 orchard-tmet.uk
@@ -16179,7 +15896,6 @@ summersideprimary.co.uk
 greentopschool.co.uk
 stjamesacademy.org.uk
 oustonprimary.durham.sch.uk
-theparklandfederation.org
 theparklandfederation.org
 phcs.org.uk
 shinewaterprimary.co.uk
@@ -16235,7 +15951,6 @@ edengirlsmanchester.com
 greatouse.beds.sch.uk
 greenridgeacademy.co.uk
 harrisriverside.org.uk
-hopecommunityschool.org
 laetottenham.ac.uk
 parklandset.org.uk
 meacentral.org.uk
@@ -16299,7 +16014,6 @@ thameside.oxon.sch.uk
 st-marys-banbury.oxon.sch.uk
 bishopaldhelms.poole.sch.uk
 talbot.poole.sch.uk
-bournesgreen.secat.co.uk
 richmond.secat.co.uk
 perrycourtacademy.e-act.org.uk
 sapa-tkat.org
@@ -16333,7 +16047,6 @@ hinckleyparks.leics.sch.uk
 themartonacademy.co.uk
 rolls-crescent.manchester.sch.uk
 stmargaretsattroytown.co.uk
-blighprimaryschool.co.uk
 miltonpark.org.uk
 bournville.org
 huttonceprimaryschool.co.uk
@@ -16358,11 +16071,9 @@ washingtonacademy.co.uk
 sandcross.surrey.sch.uk
 ststephens.surrey.sch.uk
 allsaintscarshalton.sutton.sch.uk
-hadleylearningcommunity.org.uk
 westminsterprimary.co.uk
 grammar.trinitymat.org
 downhamfeoffees.org
-learnerstrust.org
 astreaatlas.org
 standrewsfontmell.co.uk
 thelinkacademy.org.uk
@@ -16378,9 +16089,7 @@ featherby-jun.medway.sch.uk
 westgatehill.laidlawschoolstrust.co.uk
 st-michaels.school
 rockland-surlingham-schools.co.uk
-rockland-surlingham-schools.co.uk
 thurlton.org.uk
-wensumtrust.org.uk
 easingwold.outwood.com
 bedlingtonacademy.co.uk
 netherfieldprimaryschool.com
@@ -16438,12 +16147,10 @@ jubileewood.milton-keynes.sch.uk
 farnhamgreen.org.uk
 raylodgeprimary.co.uk
 stb.academy
-tmpf.staffs.sch.uk
 northcrescent.org
 eppingstjohnsschool.org
 qka.education
 priorypembroke.co.uk
-tmpf.staffs.sch.uk
 bredburygreenprimary.com
 stowhigh.com
 farnborough.ac.uk
@@ -16470,7 +16177,6 @@ blackfordbyschool.org
 beaconceprimary.co.uk
 rosetta.boleyntrust.org
 earlham.ekotrust.org.uk
-wensumtrust.org.uk
 richmondschool.net
 blakesleyprimary.org.uk
 aldermanpounder.notts.sch.uk
@@ -16513,7 +16219,6 @@ hemlingtonhallacademy.co.uk
 yanwath.cumbria.sch.uk
 kingsdownschool.co.uk
 Harrisgarrard.org.uk
-avanti.org.uk
 bluecoatprimaryacademy.co.uk
 bluecoatwollaton.co.uk
 murrowprimary.co.uk
@@ -16564,7 +16269,6 @@ pursglove.ac.uk
 richardtaunton.ac.uk
 trc.ac.uk
 bolsover.schooljotter2.com
-sites.google.com
 monega.boleyntrust.org
 bramblesprimaryacademy.org
 roughamprimary.net
@@ -16581,10 +16285,8 @@ hartsbourne.org.uk
 waterside.herts.sch.uk
 hannahmoreandgrove.co.uk
 backwellfederation.co.uk
-hannahmoreandgrove.co.uk
 yattonschools.co.uk
 northleaze.n-somerset.sch.uk
-backwellfederation.co.uk
 ravensthorpeprimary.org.uk
 longthorpe.net
 gunthorpeprimary.org.uk
@@ -16626,7 +16328,6 @@ stmarysprimary.org.uk
 stvincentshr.org
 bassenthwaite.cumbria.sch.uk
 derbymoorspencer.org.uk
-pvacademies.co.uk
 pvacademies.co.uk
 boasleycross.devon.sch.uk
 bridestowe-primary.devon.sch.uk
@@ -16693,7 +16394,6 @@ ashtonpark.net
 luckwell.bristol.sch.uk
 deanfieldschool.co.uk
 earith.cambs.sch.uk
-pvacademies.co.uk
 emmanuelmiddle.org
 dwps.co.uk
 rayneprimary.co.uk
@@ -16724,15 +16424,11 @@ bishopmartince.co.uk
 wilbrahamprimary.com
 hilltopprimary.co.uk
 nwjun-infsfed.com
-nwjun-infsfed.com
 stnicholaschantryschool.org.uk
-yattonschools.co.uk
 flaxbourton.n-somerset.sch.uk
 ashbyfields.co.uk
 st-swithuns.notts.sch.uk
 npschools.co.uk
-npschools.co.uk
-kgacollegepark.uk
 standrewsmaghull.com
 holytrinityprimary.co.uk
 highstorrs.co.uk
@@ -16798,7 +16494,6 @@ hadleighjuniorschool.co.uk
 gorefield.cambs.sch.uk
 greatwishfordschool.co.uk
 helmeschool.com
-netacademies.net
 romanhill-pri.suffolk.sch.uk
 stjohnsradcliffe.co.uk
 trenodeprimary.co.uk
@@ -16812,7 +16507,6 @@ bathfordchurchschool.co.uk
 freshfordschool.org.uk
 bickley.bromley.sch.uk
 weston.cheshire.sch.uk
-learnerstrust.org
 pedmorehighschool.uk
 chilton.durham.sch.uk
 hookprimary.co.uk
@@ -16872,7 +16566,6 @@ vrpsp.co.uk
 plaistowhill.org.uk
 mountwiseprimary.co.uk
 shakespeare.plymouth.sch.uk
-penbridgeschool.org.uk
 newchristchurch.reading.sch.uk
 westgarthprimaryschool.co.uk
 greengatesprimary.co.uk
@@ -16931,7 +16624,6 @@ holderness.academy
 oasisacademyleesbrook.org
 adalovelace.org.uk
 steepleprimary.co.uk
-williammartinschools.org.uk
 feering.essex.sch.uk
 aldertonjunior.co.uk
 camwoodfield-junior.uk
@@ -16940,7 +16632,6 @@ thebridgetrust.academy
 methleyprimaryschool.co.uk
 holbeachbankacademy.co.uk
 lordgrey.org.uk
-angelroadschools.org.uk
 dissjunior.stbenets.org
 novaprimaryacademy.co.uk
 rockinghamji.co.uk
@@ -17004,7 +16695,6 @@ ashleighdevon.co.uk
 lockyersmiddle.org
 laindonparkprimary.co.uk
 hartelwickfederation.org.uk
-hartelwickfederation.org.uk
 wrotham-road.kent.sch.uk
 blacko.lancs.sch.uk
 laneshawbridgeschool.org.uk
@@ -17025,7 +16715,6 @@ nunnerywoodprimary.co.uk
 castlemortonprimaryschool.co.uk
 powick.worcs.sch.uk
 treviglas.net
-clintonanddolton.org
 sp.starmat.uk
 wathacademy.com
 morlandprimary.com
@@ -17161,7 +16850,6 @@ gaytonprimary.co.uk
 hopton.norfolk.sch.uk
 sandringhamandwestnewtonprimary.com
 broadlandhighoa.co.uk
-unityfederation.co.uk
 mendipgreen.co.uk
 wilton.teesvalleyeducation.co.uk
 laughtonallsaints.org
@@ -17211,7 +16899,6 @@ stthomasmorebuxton.srscmat.co.uk
 hs.eriding.net
 williammacgregor.staffs.sch.uk
 sandiway.cheshire.sch.uk
-assmfederation.srscmat.co.uk
 stpetersprimary.org
 courtwood.croydon.sch.uk
 meoninfantschool.org.uk
@@ -17406,7 +17093,6 @@ ruskinprimary.net
 olympicprimary.net
 glazebury.eschools.co.uk
 ottershawcofeschools.surrey.sch.uk
-ottershawcofeschools.surrey.sch.uk
 noremarsh.wilts.sch.uk
 flimby.cumbria.sch.uk
 shoscombeprimary.co.uk
@@ -17445,7 +17131,6 @@ etruscan.stoke.sch.uk
 saintmarksprimary.org.uk
 oakhillprimaryschool.co.uk
 anstonhillcrestprimary.co.uk
-theswaffhams.demat.org.uk
 kivetonparkinfants.co.uk
 kilburnjunior.school
 themeadowsprimaryacademy.org.uk
@@ -17474,7 +17159,6 @@ laceyfieldlouth.co.uk
 cjs.derby.sch.uk
 astreadearne.org
 loscoe.derbyshire.sch.uk
-laceyfieldlouth.co.uk
 belvidere.shropshire.sch.uk
 chellastoni.derby.sch.uk
 heath.derbyshire.sch.uk
@@ -17503,7 +17187,6 @@ croftway.wiseacademies.co.uk
 goldfinchprimary.org.uk
 nightingaleinfant.co.uk
 hartpury.ac.uk
-hopefederation.org.uk
 hha.harbourlearningtrust.com
 utcplymouth.org
 sga.harbourlearningtrust.com
@@ -17529,8 +17212,6 @@ ggpa.org.uk
 rps.ttlt.org.uk
 winford.n-somerset.sch.uk
 newyork.lincs.sch.uk
-ernehalefha.co.uk
-whiptonbarton.org
 arnesby.embracemat.org
 stpeterswhetstone.co.uk
 foleyacademy.com
@@ -17626,8 +17307,6 @@ stmarkallsaints.uk
 welldonpark.theppt.co.uk
 green.derbyshire.sch.uk
 annecy.org.uk
-eastharptreeandubley.org.uk
-bishopsuttonstantondrew.co.uk
 marlboroughroad.org
 albionacademy.org
 pmsc.school
@@ -17647,7 +17326,6 @@ firbankprimary.co.uk
 redbrookhayes.co.uk
 larkriseprimary.org
 asfc.ac.uk
-princethorpe.drbignitemat.org
 aveleyprimary.org
 gps.hslt.academy
 lhea.org.uk
@@ -17661,7 +17339,6 @@ st-paulscray.bromley.sch.uk
 woodstonprimary.org.uk
 highfields-pri.leicester.sch.uk
 owps.org.uk
-warrenmead.co.uk
 borrowwood.derby.sch.uk
 willowtree.knowsley.sch.uk
 bishopscannings.wilts.sch.uk
@@ -17802,7 +17479,6 @@ trinityacademybristol.org
 habsborough.org.uk
 hamptonlakesprimary.org.uk
 hucknallfha.co.uk
-kgabinfield.uk
 kingsbolton.com
 lowerfarmacademy.org
 nansledanschool.org
@@ -17836,8 +17512,6 @@ suttonparkprimary.co.uk
 caldewlea.cumbria.sch.uk
 morecambebayacademy.co.uk
 thelearnerstrust.org
-learnerstrust.org
-thelearnerstrust.org
 pearlhyde.co.uk
 deneacademy.org.uk
 washingtonstjosephs.com
@@ -17853,11 +17527,9 @@ ourladyqueenofpeacepenshaw.bwcet.com
 brooklands.derbyshire.sch.uk
 shillingstone.dorset.sch.uk
 strobertofnewminster.co.uk
-learnerstrust.org
 stmarygillingham.dorset.sch.uk
 stjohnbosteprimary.org.uk
 abbey-tmet.uk
-learnerstrust.org
 oldfieldprimarykeighley.co.uk
 thurlby.lincs.sch.uk
 northfield.dudley.sch.uk
@@ -18048,7 +17720,6 @@ medlockvalley.oldham.sch.uk
 dartfordbridgecps.com
 thewellsacademy.org
 avonbourneboysacademy.org.uk
-elmleaschoolstrust.com
 liverpoolmathsschool.org
 stbarnabas-erdington.com
 pheaseyparkfarmprimary.co.uk
@@ -18124,7 +17795,6 @@ wetheringsett.suffolk.sch.uk
 plover.doncaster.sch.uk
 stjohnsrcprimary.co.uk
 wrekinview.lct.education
-polehampton.org.uk
 btrcc.lancs.sch.uk
 carlinghowprincessroyal.co.uk
 stkatherineskent.co.uk
@@ -18159,8 +17829,6 @@ dawlish.devon.sch.uk
 starcross-primary.co.uk
 rowde.wilts.sch.uk
 thomashallschool.org
-avanti.org.uk
-avanti.org.uk
 watersidecst.org
 theoaksacademy.co.uk
 abbeyrc.bham.sch.uk
@@ -18243,7 +17911,6 @@ cotongreen.staffs.sch.uk
 nationalprimary.co.uk
 oakmeadowprimary.co.uk
 arkblake.org
-avanti.org.uk
 bartonfarmacademy.co.uk
 wantageprimaryacademy.org.uk
 ikbschool.co.uk
@@ -18297,7 +17964,6 @@ stjosephs.ngfl.ac.uk
 theflorence.academy
 wescottinfant.co.uk
 ashbrook-jun.derbyshire.sch.uk
-atschool.eduweb.co.uk
 warkworth.ncea.org.uk
 freeman.suffolk.sch.uk
 chilton.suffolk.sch.uk
@@ -18311,7 +17977,6 @@ carltonmillsprimary.org
 bluebell.norfolk.sch.uk
 olsp.stoccat.org.uk
 stannes.academy
-wattonwestfieldandjunior.org.uk
 benedictacademy.org
 westthornton.croydon.sch.uk
 stanthonysclayton.bradford.sch.uk
@@ -18564,7 +18229,6 @@ highgate.bepschools.org
 fosse-tmet.uk
 surfleet.lincs.sch.uk
 lowryacademy.org.uk
-graffhamandduncton.w-sussex.sch.uk
 stthomascofeacademy.org
 thekingscofeacademy.org
 st-peterscofe.plymouth.sch.uk
@@ -18614,13 +18278,11 @@ oughtringtoncps.co.uk
 leftwichprimary.co.uk
 prestonprimary.co.uk
 stockton.schoolgrid.net
-stockton.schoolgrid.net
 st-georges.derbyshire.sch.uk
 wimbornefirst.dorset.sch.uk
 annfieldplainjuniors.co.uk
 annfieldplaininfants.co.uk
 eaststanleyschool.co.uk
-stjudes.surrey.sch.uk
 stmatthewscatholic.co.uk
 st-josephs.calderdale.sch.uk
 stjosephsbrighouse.org.uk
@@ -18667,7 +18329,6 @@ tgbs.co.uk
 haydock.outwood.com
 oultonacademy.org.uk
 corpuschristi.portsmouth.sch.uk
-huntspillfederation.co.uk
 charterprimary.co.uk
 stedmundarrowsmithcatholicacademy.org
 st-johnbosco.sandwell.sch.uk
@@ -18679,7 +18340,6 @@ brook-tmet.uk
 thrybergh.com
 bluecoattrent.co.uk
 ashbyschool.org.uk
-middlezoyandotheryschools.co.uk
 pahigh.co.uk
 harrisclaphamsixthform.org.uk
 leeds.trinitymat.org
@@ -18829,16 +18489,13 @@ saledavys-primary.co.uk
 stpiusxthconsett.bwcet.com
 ourladyandstjosephsbrooms.bwcet.com
 stmaryfederation.co.uk
-stmaryfederation.co.uk
 bishopthorpeinfantschool.co.uk
 snape.suffolk.sch.uk
 edwardshallprimary.co.uk
 kesacademy.org.uk
 bucklersmead.com
-qegsblackburn.com
 stantonbury-tove.org.uk
 willowpark.org.uk
-stjosephcatholicschoolsbirtley.org
 stmaryssouthmoor.bwcet.com
 kersey.suffolk.sch.uk
 littlemoor.oldham.sch.uk
@@ -18862,7 +18519,6 @@ claytonvillageprimary.org.uk
 ellenborough.cumbria.sch.uk
 beaconfederation.com
 manorprimary.org.uk
-beaconfederation.com
 langleyparkprimaryschool.co.uk
 skyswood.herts.sch.uk
 halstead.kent.sch.uk
@@ -18950,7 +18606,6 @@ st-roberts.northumberland.sch.uk
 redhill.staffs.sch.uk
 moorhill.staffs.sch.uk
 stmartinsepsom.school
-stmartinsepsom.school
 stnicolasmary.w-sussex.sch.uk
 oakdeneprimary.org.uk
 handaleprimaryschool.co.uk
@@ -18987,7 +18642,6 @@ binghamprimary.eschools.co.uk
 rrcoe.medway.sch.uk
 stantoncrossprimary.co.uk
 maritimeacademy.org.uk
-avanti.org.uk
 bramshallmeadows.org.uk
 woodfordprimary.org.uk
 fradleyparkschool.co.uk
@@ -19105,7 +18759,6 @@ stpeterscatholicprimary.com
 olqoh.com
 ormsgill.cumbria.sch.uk
 bridgefarmschool.org.uk
-strichardreynolds.org.uk
 strichardreynolds.org.uk
 holyfamilyschool.uk
 emc.magnificat.org.uk
@@ -19230,7 +18883,6 @@ kingswayschool.org.uk.
 dixonscr.com
 thebrooksbankschool.co.uk
 downe.bromley.sch.uk
-avanti.org.uk
 greasby-junior.wirral.sch.uk
 nanpean.cornwall.sch.uk
 st-marys.cumbria.sch.uk
@@ -19484,12 +19136,10 @@ tillingbourne.surrey.sch.uk
 sandbrookprimary.eschools.co.uk
 greatwilbraham.cambs.sch.uk
 threetreesacademies.derbyshire.sch.uk
-threetreesacademies.derbyshire.sch.uk
 broughtonprimary.net
 nortonandwestchinnockschools.co.uk
 staldhelms.co.uk
 abbastemplecombeprimary.co.uk
-nortonandwestchinnockschools.co.uk
 highfield-pri.lancs.sch.uk
 burpham.surrey.sch.uk
 huishepiscopi.net
@@ -19518,7 +19168,6 @@ ashlandsprimaryschool.co.uk
 st-bartholomews.somerset.sch.uk
 haselburyplucknettschool.co.uk
 pilton-inf.devon.sch.uk
-northamfederation.devon.sch.uk
 northamfederation.devon.sch.uk
 trinityprimaryexeter.co.uk
 stedwardsrcdarwen.co.uk
@@ -19550,7 +19199,6 @@ langar.notts.sch.uk
 monktonwoodacademy.clf.uk
 lingdaleprimary.co.uk
 hockliffelowerschool.co.uk
-dhakpf.durham.sch.uk
 dhakpf.durham.sch.uk
 paganelschool.com
 batleyparishprimary.co.uk
@@ -19617,7 +19265,6 @@ thechurchillschool.co.uk
 brgs.org.uk
 hps.e-sussex.sch.uk
 fca.northerneducationtrust.org
-menorahprimaryschool.org.uk
 westrow-academy.co.uk
 stmartins.dsat.org.uk
 allsaintshwb.co.uk
@@ -19676,7 +19323,6 @@ threshfieldprimary.co.uk
 hinstockprimary.co.uk
 hodnetschool.co.uk
 blessededwardcampion.co.uk
-blessededwardcampion.co.uk
 strobertsouthwellhorsham.co.uk
 oakhill.worcs.sch.uk
 limbrickwood.co.uk
@@ -19708,7 +19354,6 @@ norburyhallprimary.co.uk
 norleyce.cheshire.sch.uk
 dodlestonprimary.com
 haughmondfed.net
-haughmondfed.net
 st-peters-marchington.org.uk
 willowwoodprimaryschool.co.uk
 stjosephsreddish.org
@@ -19735,7 +19380,6 @@ westlands.staffs.sch.uk
 apleywoodprimaryschool.org.uk
 stmichaelsfed.shropshire.sch.uk
 goodrichce.org
-stmichaelsfed.shropshire.sch.uk
 ardleighstmarys.org.uk
 stceciliascatholicprimaryschool.co.uk
 lucklaneprimary.org.uk
@@ -19762,14 +19406,10 @@ whitehousepri.org.uk
 fishburn.durham.sch.uk
 stmarys698.herts.sch.uk
 lmjs.lancs.sch.uk
-lmjs.lancs.sch.uk
 holy-family.blackpool.sch.uk
 st-williams.lancs.sch.uk
 wheatleylane.lancs.sch.uk
-swallowtailfederation.co.uk
-swallowtailfederation.co.uk
 stnicholashenstridge.co.uk
-walshschools.uk
 stmartins-primary.surrey.sch.uk
 powellcorderoy.co.uk
 puttenhamschool.co.uk
@@ -19805,7 +19445,6 @@ valewood.co.uk
 columbiaprimaryschool.org
 eldonprimary.co.uk
 st-michaels.newham.sch.uk
-colmanfederation.co.uk
 colmanfederation.co.uk
 fromecollege.org
 brookdaleprimaryschool.co.uk
@@ -19993,7 +19632,6 @@ hopebrook.co.uk
 moorparkprimaryandnursery.co.uk
 rusthall-cep.kent.sch.uk
 twomilehillprimary.co.uk
-castlenewnham.school
 edmondsley.durham.sch.uk
 badgerbrook.org.uk
 haydonleighschool.co.uk
