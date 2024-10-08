@@ -39,7 +39,7 @@ function verifyEmail(email) {
   }
 }
 
-function verifyStudentEmail(email) {
+export function verifyStudentEmail(email) {
   const email_domain = email.split("@").pop();
 
   if (common.includes(email_domain) || !studentPatterns.includes(email.split("@")[0])) {
@@ -55,4 +55,4 @@ function verifyStudentEmail(email) {
   }
 }
 
-export default verify_email;
+export default verifyEmail;
