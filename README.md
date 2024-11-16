@@ -1,6 +1,6 @@
 # School Email Verifier
 This is a handy tool to verify whether an email is from a primary or secondary school that is recognised by a government
-institution (currently only includes schools from Ireland, England, ans Scotland).
+institution (currently only includes schools from the Republic of Ireland, England, and Scotland).
 
 ## Installation
 
@@ -8,16 +8,16 @@ institution (currently only includes schools from Ireland, England, ans Scotland
 
 Installation is simple, all you have to do is clone this repo into your working directory:
 
-````commandline
+```sh
 git clone https://github.com/CragglesG/school-emails
-````
+```
 
-All done! You can now import the ``verifyEmail`` function into your JavaScript program.
+All done! You can now import the `verifyEmail` function into your JavaScript program.
 
 ## Usage Guide
 
-Using ``verifyEmail``  is super easy, all you have to do is import it and call it with an email. You can import
-it from the ``school-emails`` directory which you cloned into:
+Using `verifyEmail`  is super easy, all you have to do is import it and call it with an email. You can import
+it from the `school-emails` directory which you cloned into:
 
 ```javascript
 import verifyEmail from './school-emails/verify_email.js'
@@ -25,9 +25,9 @@ import verifyEmail from './school-emails/verify_email.js'
 
 Now you can call the function to verify an email:
 
-````javascript
+```javascript
 verifyEmail("email@example.com")
-````
+```
 
-The ``verifyEmail`` function will either return the country that the school is located in or simply ``Fail`` if the
+The `verifyEmail` function will either return the country that the school is located in or simply `Fail` if the
 email does not belong to a recognised school.
